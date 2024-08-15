@@ -1,16 +1,16 @@
-## Hi there 👋
+#EXTM3U
 
-<!--
-**Mpdishtv/MPDISHTV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Kolkata Movie", I Love You
+http://45.250.20.254/collection/Movies/Bangla%20%28Kolkata%29/I%20Love%20You%20%282007%29%201080p%20WEBRip.mp4
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+
+  
+
+
