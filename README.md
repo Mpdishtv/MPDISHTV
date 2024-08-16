@@ -179,7 +179,8 @@ http://103.111.120.114:5244/p/Movies/Indian%20Bangla%20Movies/2012/Bojhena%20She
 http://103.111.120.114:5244/p/Movies/Indian%20Bangla%20Movies/2009/Challenge%20%282009%29/Challenge%20%282009%29.mp4
 
 
-
+#EXTINF:-1 tvg-logo="Logo Link" group-title="DEV", Challenge 2 
+http://103.111.120.114:5244/p/Movies/Indian%20Bangla%20Movies/2012/Challenge%202%20%282012%29/Challenge%202%20%282012%29.mp4
 
 
 
