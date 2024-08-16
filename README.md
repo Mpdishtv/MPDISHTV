@@ -91,7 +91,8 @@ http://45.250.20.254/collection/Movies/Bangla/Kolkata/Jio%20Pagla%20%282017%29%2
 http://45.250.20.254/collection/Movies/Bangla/Kolkata/Josh%20%282010%29%201080p%20WEBRip.mp4
 
 
-
+#EXTINF:-1 tvg-logo="Logo Link" group-title="SPECIAL MOVIES", Titanic 
+http://45.250.20.254/collection/English%20Movies/%281997%29/Titanic%20%281997%29%20720p%20%5BDual%20Audio%5D/Titanic%20%281997%29%20720p%20BluRay%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
 
 
 
