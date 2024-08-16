@@ -131,7 +131,8 @@ http://45.250.20.254/collection/Movies/Hindi/Rowdy%20Rathore%20%282012%29%20m720
 http://45.250.20.254/collection/Movies/Hindi/Koi%20Mil%20Gaya%20%282003%29%201080p%20WEBDL.mp4
 
 
-
+#EXTINF:-1 tvg-logo="Logo Link" group-title="YASH", Mon Jane Na 
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282019%29/Mon%20Jaane%20Na%20%282019%29%201080p/Mon%20Jaane%20Na.2019.1080p.WEB-DL.AVC.AAC.DDR.mp4
 
 
 
