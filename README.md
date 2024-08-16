@@ -163,7 +163,8 @@ http://103.111.120.114:5244/p/Movies/Indian%20Bangla%20Movies/1900-2008/Premer%2
 http://103.111.120.114:5244/p/Movies/Indian%20Bangla%20Movies/2015/Parbo%20Na%20Aami%20Chartey%20Toke%20%282015%29/Parbo%20Na%20Aami%20Chartey%20Toke%20%282015%29.mp4
 
 
-
+#EXTINF:-1 tvg-logo="Logo Link" group-title="DEV", Bindass
+http://103.111.120.114:5244/p/Movies/Indian%20Bangla%20Movies/2014/Bindaas%20%282014%29/Bindaas%20%282014%29.mp4
 
 
 
