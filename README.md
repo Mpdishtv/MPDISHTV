@@ -175,7 +175,8 @@ http://103.111.120.114:5244/p/Movies/Indian%20Bangla%20Movies/2014/Bindaas%20%28
 http://103.111.120.114:5244/p/Movies/Indian%20Bangla%20Movies/2012/Bojhena%20Shey%20Bojhena%20%282012%29/Bojhena%20Shey%20Bojhena%20%282012%29.mp4
 
 
-
+#EXTINF:-1 tvg-logo="Logo Link" group-title="DEV", Challenge 
+http://103.111.120.114:5244/p/Movies/Indian%20Bangla%20Movies/2009/Challenge%20%282009%29/Challenge%20%282009%29.mp4
 
 
 
