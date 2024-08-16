@@ -195,7 +195,8 @@ http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Mov
 http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282008%29/Mon%20Mane%20Na%20%282008%29%201080p/Mon.Mane.Na.2008.1080p.WEB-DL.DDP2.0.H.264.mkv
 
 
-
+#EXTINF:-1 tvg-logo="Logo Link" group-title="DEV", Bolo Na Tumi Amer 
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282010%29/Bolo%20Na%20Tumi%20Amar%20%282010%29%20Bengali%201080p%20WEB-DL/Bolo.Na.Tumi.Amaar.2010.1080p.DSNP.WEB-DL.AAC2.0.H.264.mkv
 
 
 
