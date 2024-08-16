@@ -191,7 +191,8 @@ http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Mov
 http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282010%29/AMANUSH%20%282010%29/Amanush.2010.1080p.AMZN.WEB-DL.DDP2.0.H.264.mkv
 
 
-
+#EXTINF:-1 tvg-logo="Logo Link" group-title="DEV", Mon Mane Na 
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282008%29/Mon%20Mane%20Na%20%282008%29%201080p/Mon.Mane.Na.2008.1080p.WEB-DL.DDP2.0.H.264.mkv
 
 
 
