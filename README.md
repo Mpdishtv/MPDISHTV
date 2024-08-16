@@ -203,6 +203,40 @@ http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Mov
 http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282010%29/Mon%20Je%20Kore%20Uru%20Uru%20%282010%29%20Bengali%20WEB-DL%20720p/Mon%20Je%20Kore%20Uru%20Uru-ftpbd.mkv
 
 
+#EXTINF:-1 tvg-logo="Logo Link" group-title="JEET", Besh Korechi Pream Korechi
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282015%29/Besh%20Korechi%20Prem%20Korechi%20%282015%29%201080p/Besh%20Korechi%20Prem%20Korechi%20%282015%29%201080p.mkv
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
