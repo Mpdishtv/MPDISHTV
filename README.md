@@ -139,6 +139,49 @@ http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Mov
 http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282016%29/Ki%20Kore%20Toke%20Bolbo%20%282016%29%20720p/Ki%20Kore%20Toke%20Bolbo%20%20%282016%29%20%5BBengali%5D%20720p%20-%20HDRip.mkv
 
 
+#EXTINF:-1 tvg-logo="Logo Link" group-title="ANKUSH", Jamai 420
+http://103.111.120.114:5244/p/Movies/Indian%20Bangla%20Movies/2015/Jamai%20420%20%282015%29/Jamai%20420%20%282015%29.mp4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
