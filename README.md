@@ -207,7 +207,8 @@ http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Mov
 http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282015%29/Besh%20Korechi%20Prem%20Korechi%20%282015%29%201080p/Besh%20Korechi%20Prem%20Korechi%20%282015%29%201080p.mkv
 
 
-
+#EXTINF:-1 tvg-logo="Logo Link" group-title="YASH", Fidda 
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282018%29/Fidaa%20%282018%29%20Bengali%20Movie%201080p/Fidaa%202018%20Bengali%20Movie%201080p%20Amzn%20WEB-HD%20x%20265%20HEVC.mkv
 
 
 
