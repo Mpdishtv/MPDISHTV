@@ -187,7 +187,8 @@ http://103.111.120.114:5244/p/Movies/Indian%20Bangla%20Movies/2012/Challenge%202
 http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282017%29/Tomake%20Chai%202017%20%5BBengali%5D%20%201080p/Tomake%20Chai%202017%20%5BBengali%5D%20%201080p.mkv
 
 
-
+#EXTINF:-1 tvg-logo="Logo Link" group-title="SOHAM", Amanush 
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282010%29/AMANUSH%20%282010%29/Amanush.2010.1080p.AMZN.WEB-DL.DDP2.0.H.264.mkv
 
 
 
