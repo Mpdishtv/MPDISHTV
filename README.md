@@ -211,7 +211,8 @@ http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Mov
 http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282018%29/Fidaa%20%282018%29%20Bengali%20Movie%201080p/Fidaa%202018%20Bengali%20Movie%201080p%20Amzn%20WEB-HD%20x%20265%20HEVC.mkv
 
 
-
+#EXTINF:-1 tvg-logo="Logo Link" group-title="SOHAM", Janeman 
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282012%29/Jaaneman%20%282012%29/Jaaneman%20%282012%29%20DvDRip%20450MB%20%5BDoridro.com%5D.mkv
 
 
 
