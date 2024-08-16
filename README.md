@@ -151,7 +151,8 @@ http://103.111.120.114:5244/p/Movies/Indian%20Bangla%20Movies/2011/Romeo%20%2820
 http://103.111.120.114:5244/p/Movies/Indian%20Bangla%20Movies/2009/Poran%20Jaye%20Jolia%20Re%20%282009%29/Poran%20Jaye%20Jolia%20Re%20%282009%29.mp4
 
 
-
+#EXTINF:-1 tvg-logo="Logo Link" group-title="DEV", KhokaBabu
+http://103.111.120.114:5244/p/Movies/Indian%20Bangla%20Movies/2012/Khokababu%20%282012%29/Khokababu%20%282012%29.mp4
 
 
 
