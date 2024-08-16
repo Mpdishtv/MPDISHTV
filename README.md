@@ -135,7 +135,8 @@ http://45.250.20.254/collection/Movies/Hindi/Koi%20Mil%20Gaya%20%282003%29%20108
 http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282019%29/Mon%20Jaane%20Na%20%282019%29%201080p/Mon%20Jaane%20Na.2019.1080p.WEB-DL.AVC.AAC.DDR.mp4
 
 
-
+#EXTINF:-1 tvg-logo="Logo Link" group-title="ANKUSH", Ki Kore Toke Bolbo 
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282016%29/Ki%20Kore%20Toke%20Bolbo%20%282016%29%20720p/Ki%20Kore%20Toke%20Bolbo%20%20%282016%29%20%5BBengali%5D%20720p%20-%20HDRip.mkv
 
 
 
