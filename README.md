@@ -143,7 +143,8 @@ http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Mov
 http://103.111.120.114:5244/p/Movies/Indian%20Bangla%20Movies/2015/Jamai%20420%20%282015%29/Jamai%20420%20%282015%29.mp4
 
 
-
+#EXTINF:-1 tvg-logo="Logo Link" group-title="DEV", Romeo 
+http://103.111.120.114:5244/p/Movies/Indian%20Bangla%20Movies/2011/Romeo%20%282011%29/Romeo%20%282011%29.mp4
 
 
 
