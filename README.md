@@ -95,6 +95,57 @@ http://45.250.20.254/collection/Movies/Bangla/Kolkata/Josh%20%282010%29%201080p%
 http://45.250.20.254/collection/English%20Movies/%281997%29/Titanic%20%281997%29%20720p%20%5BDual%20Audio%5D/Titanic%20%281997%29%20720p%20BluRay%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
 
 
+#EXTINF:-1 tvg-logo="Logo Link" group-title="HINDI MOVIES", Chennai Express 
+http://45.250.20.254/collection/Movies/Hindi/Chennai%20Express%20%282013%29%201080p%20BluRay.mp4
+
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="HINDI MOVIES", Mohabbatein 
+http://45.250.20.254/collection/Movies/Hindi/Mohabbatein%20%282000%29%201080p%20BluRay.mp4
+
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="HORROR MOVIES", 1920 
+http://45.250.20.254/collection/Movies/Hindi/1920%20%282008%29%20720p%20WEBRip.mp4
+
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="HINDI MOVIES", Housefull
+http://45.250.20.254/collection/Movies/Hindi/Housefull%20%282010%29%201080p%20BluRay.mp4
+
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="HINDI MOVIES ", Dilwale Dulhaniya Lagainge
+http://45.250.20.254/collection/Movies/Hindi/Dilwale%20Dulhania%20Le%20Jayenge%20%281995%29%20720p%20BluRay.mp4
+
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="HINDI MOVIES", Kabhi Khusi Kabhi Gamm
+http://45.250.20.254/collection/Movies/Hindi/Kabhi%20Khushi%20Kabhie%20Gham%20%282001%29%20720p%20BluRay.mp4
+
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="HINDI MOVIES", Kriss 3 
+http://45.250.20.254/collection/Movies/Hindi/Krrish%203%20%282013%29%201080p%20BluRay.mp4
+
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="HINDI MOVIES", Rowdy Rathor
+http://45.250.20.254/collection/Movies/Hindi/Rowdy%20Rathore%20%282012%29%20m720p%20BrRip.mp4
+
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name 
+m3u8 link
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
