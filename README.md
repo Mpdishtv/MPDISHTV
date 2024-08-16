@@ -171,7 +171,8 @@ http://103.111.120.114:5244/p/Movies/Indian%20Bangla%20Movies/2014/Bindaas%20%28
 103.111.120.114:5244/p/Movies/Indian%20Bangla%20Movies/2017/Ami%20Je%20Ke%20Tomar%20%282017%29/Ami%20Je%20Ke%20Tomar%20%282017%29.mp4
 
 
-
+#EXTINF:-1 tvg-logo="Logo Link" group-title="SOHAM", Bojhena Se Bojhena 
+http://103.111.120.114:5244/p/Movies/Indian%20Bangla%20Movies/2012/Bojhena%20Shey%20Bojhena%20%282012%29/Bojhena%20Shey%20Bojhena%20%282012%29.mp4
 
 
 
