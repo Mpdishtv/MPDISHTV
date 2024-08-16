@@ -127,8 +127,8 @@ http://45.250.20.254/collection/Movies/Hindi/Krrish%203%20%282013%29%201080p%20B
 http://45.250.20.254/collection/Movies/Hindi/Rowdy%20Rathore%20%282012%29%20m720p%20BrRip.mp4
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name 
-m3u8 link
+#EXTINF:-1 tvg-logo="Logo Link" group-title="HINDI MOVIES", Koi Mil Gaya
+http://45.250.20.254/collection/Movies/Hindi/Koi%20Mil%20Gaya%20%282003%29%201080p%20WEBDL.mp4
 
 
 
