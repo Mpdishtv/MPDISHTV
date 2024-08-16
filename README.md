@@ -215,7 +215,8 @@ http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Mov
 http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282012%29/Jaaneman%20%282012%29/Jaaneman%20%282012%29%20DvDRip%20450MB%20%5BDoridro.com%5D.mkv
 
 
-
+#EXTINF:-1 tvg-logo="Logo Link" group-title="HIRON", Jio Pagla 
+http://103.111.120.114:5244/p/Movies/Indian%20Bangla%20Movies/2016/Jio%20Pagla%20%282017%29/Jio.Pagla.2017.Bengali.1080p.WEB-DL.mp4
 
 
 
