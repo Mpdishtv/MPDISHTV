@@ -283,7 +283,8 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1723925011/ei/s
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1723926074/ei/2rHAZpaUO5K43LUPvtSdoA0/ip/172.68.65.131/id/HQwoLM-F0LU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/Mv1m9q6rHn0x47lkyeG5KiiR2K3lamFu084fnoJMOEl1Wm_zJtSZRahKIo6mx1E/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAL76edXYh-sy5Fv2zqgmaNX4t6fv2wOReSdeegTJiVlRAiAkGfVl1AHmXYKOxsLZKQkgP8VSCHefWBH_oDzmfPIw1A%3D%3D/file/index.m3u8
 
 
-
+#EXTINF:-1 tvg-logo="Logo Link" group-title="ISLAMIC CHENNAL", Atn Islam
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnislamictv.stream/playlist.m3u8
 
 
 
