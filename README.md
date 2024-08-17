@@ -259,7 +259,8 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1.m
 http://humsab.xyz/IN_JALSHAMOVIES/index.m3u8
 
 
-
+#EXTINF:-1 tvg-logo="Logo Link" group-title="INDIA BD CHENNAL", Sony Aath 
+http://tv.cloudcdn.me/live.ts?channelId=44150&uid=13433&deviceMac=00:1A:79:00:97:A1
 
 
 
