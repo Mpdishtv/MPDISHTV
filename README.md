@@ -227,7 +227,8 @@ http://103.111.120.114:5244/p/Movies/Indian%20Bangla%20Movies/2012/Le%20Halua%20
 http://103.111.120.114:5244/p/Movies/Bangladeshi%20Movies/Female%204%20%282024%29/Female%204%20%282024%29%20-%20Bengali%20Bongo%201080p.mkv
 
 
-
+#EXTINF:-1 tvg-logo="Logo Link" group-title="BD MOVIES", Osomoy 
+http://103.111.120.114:5244/p/Movies/Bangladeshi%20Movies/Osomoy%20%282024%29/Osomoy%20%282024%29-Bengali%20Bongo%20WEB-DL%201080p.mkv
 
 
 
