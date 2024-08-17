@@ -263,7 +263,8 @@ http://humsab.xyz/IN_JALSHAMOVIES/index.m3u8
 http://tv.cloudcdn.me/live.ts?channelId=44150&uid=13433&deviceMac=00:1A:79:00:97:A1
 
 
-
+#EXTINF:-1 tvg-logo="Logo Link" group-title="SPORTS CHENNAL", T Sports HD
+http://103.151.60.174/manikvai@hoichoi24.com-t-sports
 
 
 
