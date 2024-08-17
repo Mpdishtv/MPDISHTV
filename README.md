@@ -251,7 +251,8 @@ http://103.147.169.52:8080/auth/k-XLdMcl76JZGMrsAgu6Wj-YuNASGBdNGVPnRsBeJk-_yiMj
 http://humsab.xyz/IN_JALSHAS/index.m3u8
 
 
-
+#EXTINF:-1 tvg-logo="Logo Link" group-title="INDIA CHENNAL", Zee Bangla Hd 
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1.m3u8
 
 
 
