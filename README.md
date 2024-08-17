@@ -235,7 +235,8 @@ http://103.111.120.114:5244/p/Movies/Bangladeshi%20Movies/Osomoy%20%282024%29/Os
 http://vodlb2.zaintv.net/meDia/MoVies/BanglaMov/Villain.2018.Bengali.720p.HDRip.x264.AAC.5.1.ESubs.-UnknownStAr.Telly.mkv
 
 
-
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Adventure Of JoJo
+http://vodlb2.zaintv.net/meDia/MoVies/BanglaMov/Adventures.of.Jojo.2018.Bengali.WebRip.720p.x264.AAC.Team.MS.mkv
 
 
 
