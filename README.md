@@ -83,7 +83,7 @@ http://45.250.20.254/collection/Movies/Bangla%20%28Kolkata%29/Yoddha%20%282014%2
 http://45.250.20.254/collection/Movies/Bangla%20%28Kolkata%29/Zulfiqar%20%282016%29%201080p%20WEBRip.mp4
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="JISHU", Jio Pagla 
+#EXTINF:-1 tvg-logo="Logo Link" group-title="BONNY", Jio Pagla 
 http://45.250.20.254/collection/Movies/Bangla/Kolkata/Jio%20Pagla%20%282017%29%201080p%20WEBDL.mp4
 
 
