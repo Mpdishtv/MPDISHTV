@@ -35,7 +35,7 @@ http://45.250.20.254/collection/Movies/Bangla%20%28Kolkata%29/Deewana%20%282013%
 http://45.250.20.254/collection/Movies/Bangla%20%28Kolkata%29/Hoichoi%20Unlimited%20%282018%29%201080p%20WEBRip.mp4
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="HERON", Jamai Bodol 
+#EXTINF:-1 tvg-logo="Logo Link" group-title="HIRON", Jamai Bodol 
 http://45.250.20.254/collection/Movies/Bangla%20%28Kolkata%29/Jamai%20Badal%20%282019%29%20720p%20WEBDL.mp4
 
 
