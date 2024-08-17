@@ -291,6 +291,38 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 http://humsab.xyz/IN_SonyMaxHD/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="Logo Link" group-title="KIDS CHENNAL", Disney Hindi 
+http://103.147.169.52:8080/auth/AyDfRITyBFWSh7ZL7g9bDl2iUi1p-9GcHBPeMNIiiAVb7_-EqkCk_z1uNBM5UfkheQBlb-VtEcSpeDwleQ0MKB5I4Jx-oUNnC9QfCEniQqBIyPvY__tuXdTTJ5_o5cowNMJ66JRmcVrg2-oIf4BVst51qU-PjoF-pCM60eDisSZmkB56jBs1RKjyjHysffveyWs6gVpuxqC333NSEywyaJEhkfuDDIHcZoepsEW6dHOWdYfw4wYvZ0FJ_uGFxDkn8A6k1djAMl49hyWWQa2xqXpRRZBwojKKnRaOpuXqDuOl0kwV-VEK5QZjTotQynJz7vBJLcZXY41vlNNKOu5vFcrTFpJA9xvBXyRNqGr-4xxQo5G0kqUARalfTO07MKTjZMkhiQogPIWAOGmPrKYiAZB0P_48Dlq2f_b3RhjswoRxsks8iU1sQt5xZPyPMhy-GfyzA7wO0PW1nbifY5nRYIBGdcnCSvesaSylLoDYc50EmXVEE_ISOLeq7cpWs0XSh27cLB8jOhdkQUoZRuqELDycvGsZ9v60nQi3hQxozX2VHsWJKaccbbbSBCnR_63SV0F8RTv0mUIomBj8d9KpQtWBEdTVFkqSGBcMNWgEYX_CX_VaA4TkSskQjISMQa3DcI3I_2HRb-8GaB7XMDcGMcmtaYOxr3zogCAXGDiJC_8viFAGVMoeQjtZ6siEsK9U
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
