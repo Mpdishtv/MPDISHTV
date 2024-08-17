@@ -287,7 +287,8 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1723926074/ei/2
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnislamictv.stream/playlist.m3u8
 
 
-
+#EXTINF:-1 tvg-logo="Logo Link" group-title="HINDI CHENNAL", Sony Max HD 
+http://humsab.xyz/IN_SonyMaxHD/index.m3u8
 
 
 
