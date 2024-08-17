@@ -231,7 +231,8 @@ http://103.111.120.114:5244/p/Movies/Bangladeshi%20Movies/Female%204%20%282024%2
 http://103.111.120.114:5244/p/Movies/Bangladeshi%20Movies/Osomoy%20%282024%29/Osomoy%20%282024%29-Bengali%20Bongo%20WEB-DL%201080p.mkv
 
 
-
+#EXTINF:-1 tvg-logo="Logo Link" group-title="ANKUSH", Villan  
+http://vodlb2.zaintv.net/meDia/MoVies/BanglaMov/Villain.2018.Bengali.720p.HDRip.x264.AAC.5.1.ESubs.-UnknownStAr.Telly.mkv
 
 
 
