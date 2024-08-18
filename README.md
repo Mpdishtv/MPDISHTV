@@ -299,7 +299,8 @@ http://xtv.ooo:8080/live/927382370/837382809/167551.m3u8
 https://bdix.proximitybd.xyz/cric/digital.php?id=675&e.m3u8
 
 
-
+#EXTINF:-1 tvg-logo="Logo Link" group-title="KIDS CHENNAL", Nick Bangla
+http://cdn1.digitalviewonline.xyz:8080/auth/IZnI6GLNVZjSdwhrwdiRhDycwvbY_DZOh9ecznr3XgpAKCoPqSKnzI93QN99Ttq13frKpYKHcKhwxOs6z-4XxjAPJpA6ulRhg8ueDRIrNPa61XgLDj3Q-EbXRxXCZT14BG1f20k4T515eGS9qx9ia2vSicW_6O4Fm8p-XjRo7ws6K0ll0W-JU-TWijODNu6pVnxj7eZPEImLnBJzFOEHPmQtiLD1jCu8WQygOdwkgrd5WH4gbEbhm9CKm9au7m-YABBiE_hbzxhJvH5yhTUQM1Nc0JVUQKI6u6aJphJVwM2wFh9BGwyxr-_64AHGRR63fWnuOZzICUbwX1O3ijai4zwlj36o21CprsicH6hoURmhFb4AClYcAKPmjPZKTlKvLbZfFuOC8mg06Ns2b3ntIzMfx-YpM2tPfJDhO3jjSOl-z-9iSj9ZfUAO7TpzJDDic-Vxz6Y-L6XorxQ497NOZYBlKcAfQZF5EcQz_tljRcFya_gCbVuRGwof624MrxK-fPn0rmgZO1pi-fP0rljWAgDRZZYiHqtgmljXaTEDZKlkhsBKNWrFIErm5pj8ZELVSYiBblJulnHdCgosamvG2gxC6iSk-QMlv7Ylyyn68PztVOdyMUnZ3G36Am-E-BimV2EXO0rEk0_9hDX5YGdX6SfHZKGC4jlG-23isGF0_JY
 
 
 
