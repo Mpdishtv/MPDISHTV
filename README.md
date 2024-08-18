@@ -295,7 +295,8 @@ http://humsab.xyz/IN_SonyMaxHD/index.m3u8
 http://xtv.ooo:8080/live/927382370/837382809/167551.m3u8
 
 
-
+#EXTINF:-1 tvg-logo="Logo Link" group-title="KIDS CHENNAL", Hungama Hindi  
+https://bdix.proximitybd.xyz/cric/digital.php?id=675&e.m3u8
 
 
 
