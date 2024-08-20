@@ -278,8 +278,8 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla.
 #EXTINF:-1 tvg-logo="Logo Link" group-title="HINDI MOVIES", Housefull 4
 http://45.250.20.254/collection/Movies/Hindi/Housefull%204%20%282019%29%201080p%20WEBDL.mp4
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="BD CHENNAL", Channel 24 SD 
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1723926074/ei/2rHAZpaUO5K43LUPvtSdoA0/ip/172.68.65.131/id/HQwoLM-F0LU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/Mv1m9q6rHn0x47lkyeG5KiiR2K3lamFu084fnoJMOEl1Wm_zJtSZRahKIo6mx1E/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAL76edXYh-sy5Fv2zqgmaNX4t6fv2wOReSdeegTJiVlRAiAkGfVl1AHmXYKOxsLZKQkgP8VSCHefWBH_oDzmfPIw1A%3D%3D/file/index.m3u8
+#EXTINF:-1 tvg-logo="Logo Link" group-title="HINDI MOVIES", Train To Bushan 
+http://45.250.20.254/collection/Movies/Dual%20Audio/Train%20to%20Busan%20%28Busanhaeng%29%20%282016%29%20%28Hindi%20%26%20English%29%201080p%20BluRay.mp4
 
 
 #EXTINF:-1 tvg-logo="Logo Link" group-title="ISLAMIC CHENNAL", Atn Islam
