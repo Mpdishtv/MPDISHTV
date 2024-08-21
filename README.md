@@ -310,8 +310,8 @@ http://cdn1.digitalviewonline.xyz:8080/auth/l4Zsmr3ZaTr-WTsMGZfyMYRp0TPBiDVSePyH
 m3u8 link
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="BD CHENNAL", GAZI TV
-http://103.147.169.52:8080/auth/cAajDgktdfi24vGmk7okFule3_VgEov5TBjj1RHnfQ_24tg5o3IFIBQIrVB05xY6x_TmmUKYGQo3fONEWLRU8ali9XW6u67EFTH1L2xVCMiv0O-F68LuTnMlkh2bYb5H3kl-MLD6tr2hz37aoPRWDHP1WEdRiodxPk6j_IwuI-4dYZzCFujL0OC8539pUf6-5k8K6yYjUu-XDqECoJXIkFPFWo0laz7xXGjb2FRzSaTHpRQ3-9A6Tcb6MPBfYSh-r_8kFs2dCmCqH7xHj2WU2UpZT6m94B84Q5j7S5wAn3CZf3ViaxoWp3fh7ERwyU6INMSHsErk7gRH7TEv4lHSzBXzUr-H3BodECcA8MWEaFpj25WmrYJRlpgjJR-QkdOr03vyCs2-0DeUlzUTvS7SQ3l9T2J67ht87FP3hxUlx3W05OfZcXpd-66K3AL6zCXSfodSWd2ePQj4Fwhq1eRdaGHNoW0vveYdLImYPI4acm8lB-iuqw4mHxEJRbHfIZ-2k2GAD5MQQ64wMedmTUZnSCwOTUFe7ESJ5D827tJQbrZQuEE5ZzWG4zOkW8HOW7rUZg8uCzt402C8iO02tHb7UTK1vRwTyaz_DqLb3hH88ovnx0io0RoubBhm3gIrFr2bQGaweCoSVQGFMyk4oujLPeVayqm92jyomAE164bMsSw
+#EXTINF:-1 tvg-logo="Logo Link" group-title="HINDI MOVIES", Bahubali 2
+http://45.250.20.254/collection/Movies/South%20Indian%20%28Hindi%20Dubbed%29/Baahubali%202%20The%20Conclusion%20%282017%29%201080p%20BluRay.mp4
 
 
 #EXTINF:-1 tvg-logo="Logo Link" group-title="INDIA BD CHENNAL", Star Jalsha HD
