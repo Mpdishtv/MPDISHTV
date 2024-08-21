@@ -326,7 +326,8 @@ http://45.250.20.254/collection/Movies/South%20Indian%20%28Hindi%20Dubbed%29/Sar
 http://45.250.20.254/collection/Movies/South%20Indian%20%28Hindi%20Dubbed%29/Baahubali%20The%20Beginning%20%282015%29%201080p%20BluRay.mp4
 
 
-
+#EXTINF:-1 tvg-logo="Logo Link" group-title="HINDI MOVIES", K.G.F 2
+http://45.250.20.254/collection/Movies/South%20Indian%20%28Hindi%20Dubbed%29/K.G.F%20Chapter%202%20%282022%29%201080p%20WEBDL.mp4
 
 
 
