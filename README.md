@@ -322,6 +322,54 @@ http://cdn1.digitalviewonline.xyz:8080/auth/XiDPyAcU1n4qdNBJ3VKsbnO1aJhPezFvYQZI
 http://45.250.20.254/collection/Movies/South%20Indian%20%28Hindi%20Dubbed%29/Sarrainodu%20%282016%29%201080p%20WEBRip.mp4
 
 
+#EXTINF:-1 tvg-logo="Logo Link" group-title="HINDI MOVIES", Bahubali The Begging 
+http://45.250.20.254/collection/Movies/South%20Indian%20%28Hindi%20Dubbed%29/Baahubali%20The%20Beginning%20%282015%29%201080p%20BluRay.mp4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
