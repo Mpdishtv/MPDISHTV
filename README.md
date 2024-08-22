@@ -295,7 +295,7 @@ https://bdix.proximitybd.xyz/cric/digital.php?id=561
 
 
 #EXTINF:-1 tvg-logo="Logo Link" group-title="KIDS CHENNAL", Hungama Hindi  
-https://bdix.proximitybd.xyz/cric/digital.php?id=675&e.m3u8
+http://lifetvbd.xyz:8080/auth/lIcpiscobIpcWNYjtlrQZTeWBtzaEkbNjzqRp_8CZmXXbI4CRavI-FubFD6H7XLpIzsm5bPbdmC09Smivotfgcg3zTW3tW_CpPkxtK7k8Z74lcrQE1id5EQRcjgvqIrAVViwNApmZuwQWNsLYgarWJktOL28-VNzx2eJ8sASfdeqOTY6exLlQRS0MVxZi-4jAbgafxp_O1JpG7n3aJluslMNbQu9APQpkN6-dJBk21lDBBRY3l5F20xNwTfcifw0vAD8vAfRmyxiql-gLktaWrnJHFvW-PaCm-pXR5oIVtQ5vLEiDA4r8mBhXEBW_Vh-Pu59ltwCVJDGIsngsc5DuqrI4FIzkWDcYuooiukXseeqWSH_0eJeJKybXLInW58Qju5gchtyr9hkFYUILKl21iGOZh--V7f_VWxTJH70rMU5b6N2mEdzF7qlbUF98cSi5iqSlgASynhGtux3JQFvHKEYCnoV2SWpDnzNG6mIpFdYSVDnsE_UXyUiTlBlSpVJyFy7a0QDCRPoklR8Q7zIBD1_B_g-pJvU-kD6yEkn0Z0LflLHIZEOQsXuYyq09XIn6sjri4rIIj8T3SrM4U84lLIqijrYiG_9jukGluSKA2pDQZI8fxB9oDQe7YQ8LAnivJch-8yyTeB8gO0ZQ8b7Dw
 
 
 #EXTINF:-1 tvg-logo="Logo Link" group-title="KIDS CHENNAL", Nick Bangla
