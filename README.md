@@ -63,7 +63,7 @@ http://45.250.20.254/collection/Movies/Bangla%20%28Kolkata%29/Paglu%20%282011%29
 http://45.250.20.254/collection/Movies/Bangla%20%28Kolkata%29/Power%20%282016%29%201080p%20WEBRip.mp4
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="PYASH", Rocky
+#EXTINF:-1 tvg-logo="Logo Link" group-title="SPECIAL MOVIES", Rocky
 http://45.250.20.254/collection/Movies/Bangla%20%28Kolkata%29/Rocky%20%282013%29%201080p%20WEBDL.mp4
 
 
@@ -79,7 +79,7 @@ http://45.250.20.254/collection/Movies/Bangla%20%28Kolkata%29/Shudhu%20Tomari%20
 http://45.250.20.254/collection/Movies/Bangla%20%28Kolkata%29/Yoddha%20%282014%29%201080p%20WEBRip.mp4
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="PYASH", Zulficar
+#EXTINF:-1 tvg-logo="Logo Link" group-title="DEV", Zulficar
 http://45.250.20.254/collection/Movies/Bangla%20%28Kolkata%29/Zulfiqar%20%282016%29%201080p%20WEBRip.mp4
 
 
