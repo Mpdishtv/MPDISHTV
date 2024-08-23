@@ -334,7 +334,7 @@ http://45.250.20.254/collection/Movies/South%20Indian%20%28Hindi%20Dubbed%29/K.G
 http://103.84.173.141:8080/auth/FOMEyzxM9srjnF7J9DWpf66nzlFGzngd0enJa2C-RiZy9SNEbjZikzLMKfmbVMTyqAxF6tttoU-rEFTl-gCTo1sotcUbrvWjvemk28B3sz2FckJ_rP4n0ZF50AtUF6Pa7mtCxl3W_LQ2ReILumCO3RUgjKWE9AV5rU_hn3CdF1MBsVQgWEsy95za96awss6N-lZxNqkPeUVK5Hp3vOF41UvfTjr27R_7ES1-4nqLc-TsxMrQNpROcx60HPDM4zUvJgBDeOwa8F09a5pwVC9CU5zdbL7USYLS1KdaS-tZ5_N9EiD-TxAhQRDvYpcpAPNm0Srkja57UqQCTgYiX1FMD2jOQemCQaUa43b8leF6zxbv9bvuesz7Cxbf8sYhoJULtdhHAQzB4rRTlXP7L6NPJXQcSZBFO6nu4zPODqJI0LLVMczmlMoY0VmGm5yTslikbVcVUA-0B7Q3a1Ozal8QWhaOCaXW11n5aYcLIJhXVmg197xuAGX5gvBQ7fgYJzaUipvmX0jL303UssjAsAniCcNaZbo-hIsVxoB_oUS75g0trfFJLHx-Y7f8DKbgrm3StGxJi5t3pJetp3JB2Htjre0nfQcALC5YntYIP2ex7YHDl8ulQZUFR1R1_Wywifdx
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="HINDI MOVIES", 1921 Horror
+#EXTINF:-1 tvg-logo="Logo Link" group-title="HORROR MOVIES", 1921 Horror
 http://45.250.20.254/collection/Movies/Hindi/1921%20%282018%29%201080p%20BluRay.mp4
 
 
