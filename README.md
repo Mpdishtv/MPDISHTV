@@ -7,39 +7,39 @@ http://45.250.20.254/collection/Movies/Bangla%20%28Kolkata%29/I%20Love%20You%20%
 http://45.250.20.254/collection/Movies/Bangla%20%28Kolkata%29/100%25%20Love%20%282012%29%201080p%20WEBRip.mp4
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="SOHAM", Pream Amer 
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/proxy/tU7mn7vC5cOAsISb7DfufS0cZU0LNijUs6uFXsZDxVjqknC5rSdBQDZPEM_Md9SSVaOZgCjZp7ds11RzJDfMeV_1gZgBWuXSOHH5JZDbWgp03VKN9dLqozJvdttfxIvYLhtOLNpQvHHtXwXAMHsxX1nndOImQmB2_HkNjg" group-title="SOHAM", Pream Amer 
 http://45.250.20.254/collection/Movies/Bangla%20%28Kolkata%29/Prem%20Amar%20%282009%29%201080p%20WEBDL.mp4
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="DEV", Paglu 2
+#EXTINF:-1 tvg-logo="http://www.impawards.com/intl/india/2012/posters/paglu_2_xlg.jpg" group-title="DEV", Paglu 2
 http://45.250.20.254/collection/Movies/Bangla%20%28Kolkata%29/Paglu%202%20%282012%29%20720p%20WEBDL.mp4
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="JEET", Awara 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTBhMTVkZGYtMDg1My00ZWZkLWI5ZDctMzE2OGMwMTQ5YmQ2XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg" group-title="JEET", Awara 
 http://45.250.20.254/collection/Movies/Bangla%20%28Kolkata%29/Awara%20%282012%29%201080p%20WEBRip.mp4
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="BONNY", Boarbadd 
+#EXTINF:-1 tvg-logo="https://pic.bstarstatic.com/ugc/60b9774104fb3fe2106fe5bd5c4de5a6.jpg@320w_180h_1e_1c_90q" group-title="BONNY", Boarbadd 
 http://45.250.20.254/collection/Movies/Bangla%20%28Kolkata%29/Borbaad%20%282014%29%201080p%20WEBRip.mp4
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="JEET", Boss 2  
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZWJiMTI4MmMtN2ZlMy00MDgzLTliZmQtNDdmMWQyMjAyOGE4XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg" group-title="JEET", Boss 2  
 http://45.250.20.254/collection/Movies/Bangla%20%28Kolkata%29/Boss%202%20%282017%29%201080p%20WEBHD.mp4
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="JEET", Dewana 
+#EXTINF:-1 tvg-logo="http://www.impawards.com/intl/india/2013/posters/deewana_ver3_xlg.jpg" group-title="JEET", Dewana 
 http://45.250.20.254/collection/Movies/Bangla%20%28Kolkata%29/Deewana%20%282013%29%20720p%20BrRip.mp4
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="DEV", Hoichoi Unlimited 
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/68798573507213.Y3JvcCw0ODAwLDM3NTQsMCwxNTQ0.jpg" group-title="DEV", Hoichoi Unlimited 
 http://45.250.20.254/collection/Movies/Bangla%20%28Kolkata%29/Hoichoi%20Unlimited%20%282018%29%201080p%20WEBRip.mp4
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="HIRON", Jamai Bodol 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/V6z3Tdm7/IMG-20240824-213305.jpg" group-title="HIRON", Jamai Bodol 
 http://45.250.20.254/collection/Movies/Bangla%20%28Kolkata%29/Jamai%20Badal%20%282019%29%20720p%20WEBDL.mp4
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="DEV", Kelor Kirti 
+#EXTINF:-1 tvg-logo="https://www.tvguide.com/a/img/resize/b1da5d1e68968ee487f2aad952d1441a98e4d78d/catalog/provider/1/2/1-4880245941.jpg?auto=webp&fit=crop&height=675&width=1200" group-title="DEV", Kelor Kirti 
 http://45.250.20.254/collection/Movies/Bangla%20%28Kolkata%29/Kelor%20Kirti%20%282016%29%201080p%20WEBRip.mp4
 
 
@@ -47,7 +47,7 @@ http://45.250.20.254/collection/Movies/Bangla%20%28Kolkata%29/Kelor%20Kirti%20%2
 http://45.250.20.254/collection/Movies/Bangla%20%28Kolkata%29/Khoka%20420%20%282013%29%201080p%20WEBRip.mp4
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="DEV", Love Express 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODQ3YjhmMTktYWIwZC00YjE0LWI0YTItNGExYjk3NDI4OTE3XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg" group-title="DEV", Love Express 
 http://45.250.20.254/collection/Movies/Bangla%20%28Kolkata%29/Love%20Express%20%282016%29%20720p%20WEBHD.mp4
 
 
@@ -163,7 +163,7 @@ http://103.111.120.114:5244/p/Movies/Indian%20Bangla%20Movies/1900-2008/Premer%2
 http://62.210.123.84:8080/movie/majnoni990/0507657990/119686.mkv?token=HhZfUENZQwMTVA8FAlJTCAUAAlFSAgYHUApTDAMCAFVRUAABBVBXWwISGhFFFhZVAg5qXlIXXwQFAFcMBxsWERZRRW5ZVUMDEwMAAg9VRhxBF1xaUxdfBAMLVQYDDwJUURgVQVlVQwMTBgMGAUBIEgYbQVJEWwRZa10EQlhUUUZfFhUdEl4PZlVVW1JYBkYKQVMXGxRcFkUWAw9BXVsYRgddQ0NRRQQbCxIHAAFbRhxBAFpCWEEXTBYDQ3Z1FRhGAExDVF5CCFZfEgwRWwkSEk9BXERpRwBGQEsEVVxSRkZfFgcTHBMMWElvVVxYDAFTFwpaWUUXXxcFG00WXFhaDRFbRW5AWAUbC15DX1of
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="DEV", Bindass
+#EXTINF:-1 tvg-logo="https://c.saavncdn.com/650/Bindaas-Bengali--Bengali-2014-20190104204105-500x500.jpg" group-title="DEV", Bindass
 http://62.210.123.84:8080/movie/majnoni990/0507657990/119627.mkv?token=HhZfUENZQwMTAAYBUgNSAwcCAAQPAAcEBVxWVgNSVlZXB1QDBlJXCAcSGhFFFhZVAg5qXlIXXwQFAFcGBhsWERZRRW5ZVUMDEwMAAg9VRhxBF1xaUxdfBAMLVQYDDgNXURgVQVlVQwMTBgcKBUBIEgYbQVJEWwRZa10EQlhUUUZfFhUdEl4PZlVVW1JYBkYKQVMXGxRcFkUWAw9BXVsYRgddQ0NRRQQbCxIPBQFASBIADEBZQkccFw4bI3ATGxYBHUBSX0NYDlcTChReXRRGHEEKRmhEUBZBRlwAWVRFFl5HBBUdElwAQW5TWV1YBwdECgxbRBQPRwQWFUNZXlldEApGaEFZVUMDX0VaX0s=
 
 
