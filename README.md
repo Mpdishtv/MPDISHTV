@@ -342,12 +342,12 @@ http://45.250.20.254/collection/Movies/South%20Indian%20%28Hindi%20Dubbed%29/Hel
 https://cdn.hotflix-bd.online/hotflixbd/T-Sports/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="Logo Link" group-title="INDIA BD CHENNAL", Jalsha Movies Sd
+http://zx.rpstv.xyz:8081/bangla/bdstarjhalsamovies/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNC8yMDI0IDE6MTU6MjkgQU0maGFzaF92YWx1ZT0yaHkvQ2F4UmVESjFzZGp2d0pxdkt3PT0mdmFsaWRtaW51dGVzPTImaWQ9NDE2OA==
 
 
-
-
-
-
+#EXTINF:-1 tvg-logo="Logo Link" group-title="INDIA BD CHENNAL", Colours Bangla
+http://14.102.123.50:5001/live/1369.m3u8
 
 
 
