@@ -354,10 +354,12 @@ http://14.102.123.50:5001/live/1369.m3u8
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=f77vf029&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
 
 
+#EXTINF:-1 tvg-logo="Logo Link" group-title="KIDS CHENNAL", Motu Patlu 24/7
+https://fifabd.xyz/KID/play.m3u8?id=307079
 
 
-
-
+#EXTINF:-1 tvg-logo="Logo Link" group-title="KIDS CHENNAL", Chotta Bheem 24/7
+https://fifabd.xyz/KID/play.m3u8?id=315401
 
 
 
