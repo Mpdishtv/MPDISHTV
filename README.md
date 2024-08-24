@@ -303,7 +303,7 @@ http://14.102.123.50:5001/live/1476.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="INDIA BD CHENNAL", Colours Bangla Cinema 
 http://filex.tv:8080/live/munna/9090/455326.ts
 
-#EXTINF:-1 tvg-logo="https://ibb.co/9qcd7nz" group-title="PYASH DTH", @Pyash8989
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PqytNbRz/1723965803707.jpg" group-title="PYASH DTH", @Pyash8989
 m3u8 link
 
 
