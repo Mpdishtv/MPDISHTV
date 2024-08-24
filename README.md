@@ -247,9 +247,8 @@ http://45.250.20.254/collection/Movies/South%20Indian%20%28Hindi%20Dubbed%29/Pus
 http://103.147.169.52:8080/auth/k-XLdMcl76JZGMrsAgu6Wj-YuNASGBdNGVPnRsBeJk-_yiMjg8grXAKrbT7ceqb9bzckPshqvuRT_ibldUfWfyJuV3CiXrZUHBrbfaF5_S-XS42s9xG1rLDoMYNRgyobdPm-cvrmEpzn7Y6QsHaC29CKSk8kgwf38LyZ-wgPvs1ddH0Hc4JHersXPX0JN9ZuvhgJPnWD_zS23fjaYwd_eZRJA4CCcgYUBejhzkDwI7x8cSbAGd170wGU1w-LjGm9Z1MovyvvnmytG2zyQrFGRSfxy_iw7Mz8_iNglzOVnZ6qgaO_ipJRkv445JxCr1X2Hgdcwvzo0coyrYeh6C5EfnSH74XzgmT-kyH-glT6SJXxy5eKhooEw-YDTPca2131VFZDlT0a6slZ-U74hEBdL2oUXc7DuecCGH0gx7Nh_0s5RVwIAzq94DA3FrYMDX1q6gjEtI034zDuVJlMzSm1_LoSGslDUOZMwPaUI_nu8FMw1Dj-DhyB6lFgDVgyoR_92AXKZDG9rMzEWJK4pdN5gN9ve3yvXDNMENyWmtYUCkzmkWMnuxe918pfQVqQkOaBy36u24Rs3Qth5wA7hxyTW4ufsMy0CQAQqRNnxvM4YuQ3QOfaQjcwkFq-1YIr4QWtcyXOB6Jdr8utRa-MqojPEC9amKODMHe0ImknIl4PiZinoyv7A9OPREq414QW6szT
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="INDIA BD CHENNAL", Star Jalsha 
-http://humsab.xyz/IN_JALSHAS/index.m3u8
-
+#EXTINF:-1 tvg-logo="Logo Link" group-title="INDIA BD CHENNAL", Star Jalsha Hd 
+http://217.20.112.199/starjalshahd/index.m3u8
 
 #EXTINF:-1 tvg-logo="Logo Link" group-title="INDIA BD CHENNAL", Zee Bangla Hd 
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1.m3u8
@@ -312,8 +311,8 @@ m3u8 link
 http://45.250.20.254/collection/Movies/South%20Indian%20%28Hindi%20Dubbed%29/Baahubali%202%20The%20Conclusion%20%282017%29%201080p%20BluRay.mp4
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="INDIA BD CHENNAL", Star Jalsha HD
-http://103.84.173.141:8080/auth/ct_rQJV_dcFMkDeKpOwlKTRqd5A30V8zufV0uWF-zgON1IvieB3dK_I3Ek1kQkNCxul8NaZdD2tUg03Td26LkvxLNg9KDFloiErRfRQkT4j_4UCUyaBfy7NdyqYSi1H9LDJUB6PzJmist26KHmuoPs1ihqEVSJ1ySRZihLhAgsABywPASMH1ZhUhkEwED_vV2NVZbyMUCk39RBDiv4ZRv0FVK5KihW2g2cTk_1uOW-HvBZayPAg2meLqEj35J5oVRREC3PXRau1uWmOMtzZgsDTxacir6hZ6Qy_46QOkJFtCsGltyaEA1bdS_Fvujg_Yqr2AQPGjoyOa5k3AAx7LIkIYG8z26mtVHptC1einX0ba1F0vAOfvZcye1Dr8yw14ioVthKTBbcUu0uPKoSbr7dQ1ZpjorwzksUahfdq70SHvvwz7BOFJMw04Ad-2QmuIUWQYwWeOlr3M8akZjYv_AmbAUUqB_zFuzlpTm8p3tuejX6MquE8X4ejdK9ULAjfJT7Jhis4OgEL_4UnANXB7pVWF9Fpz1rQBoT6fkPU3XsTvIer_EVkvY9rstgdsOAb_fp4fvWhsuSpe9uS6EisM2PdpxsMj8U_v2HMfXa3X4FaZ7m7tKFPSMoEjdOHAt7j0T_hu9TRZS-pm1krLlIRo3A
+#EXTINF:-1 tvg-logo="Logo Link" group-title="INDIA BD CHENNAL", Star Jalsha Sd
+http://humsab.xyz/IN_JALSHAS/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="Logo Link" group-title="HINDI MOVIES", Sarriaondo 
