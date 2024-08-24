@@ -43,7 +43,7 @@ http://45.250.20.254/collection/Movies/Bangla%20%28Kolkata%29/Jamai%20Badal%20%2
 http://45.250.20.254/collection/Movies/Bangla%20%28Kolkata%29/Kelor%20Kirti%20%282016%29%201080p%20WEBRip.mp4
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="DEV", Khoka 420
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7LBQhXgk/IMG-20240824-215710.jpg" group-title="DEV", Khoka 420
 http://45.250.20.254/collection/Movies/Bangla%20%28Kolkata%29/Khoka%20420%20%282013%29%201080p%20WEBRip.mp4
 
 
@@ -289,7 +289,7 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 http://humsab.xyz/IN_SonyMaxHD/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="KIDS CHENNAL", Disney Hindi
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/15pCwypM/IMG-20240824-215537.jpg" group-title="KIDS CHENNAL", Disney Hindi
 https://fifabd.xyz/KID/play.m3u8?id=167551
 
 
@@ -327,7 +327,7 @@ http://45.250.20.254/collection/Movies/South%20Indian%20%28Hindi%20Dubbed%29/Baa
 http://45.250.20.254/collection/Movies/South%20Indian%20%28Hindi%20Dubbed%29/K.G.F%20Chapter%202%20%282022%29%201080p%20WEBDL.mp4
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="KIDS CHENNAL", Disney HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/15pCwypM/IMG-20240824-215537.jpg" group-title="KIDS CHENNAL", Disney HD
 http://xtv.ooo:8080/live/927382370/837382809/167551.m3u8
 
 #EXTINF:-1 tvg-logo="Logo Link" group-title="HORROR MOVIES", 1921 Horror
