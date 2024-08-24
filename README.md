@@ -3,7 +3,7 @@
 http://45.250.20.254/collection/Movies/Bangla%20%28Kolkata%29/I%20Love%20You%20%282007%29%201080p%20WEBRip.mp4
 
 
-  #EXTINF:-1 tvg-logo="https://images.app.goo.gl/CVzv73PPcZ82gGoU7" group-title="JEET", 100% Love 
+  #EXTINF:-1 tvg-logo="https://i.scdn.co/image/ab67616d0000b273d4c28b148cfc97c8faeb0e85" group-title="JEET", 100% Love 
 http://45.250.20.254/collection/Movies/Bangla%20%28Kolkata%29/100%25%20Love%20%282012%29%201080p%20WEBRip.mp4
 
 
