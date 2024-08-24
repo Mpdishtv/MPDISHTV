@@ -243,8 +243,8 @@ http://vodlb2.zaintv.net/meDia/MoVies/BanglaMov/Adventures.of.Jojo.2018.Bengali.
 http://45.250.20.254/collection/Movies/South%20Indian%20%28Hindi%20Dubbed%29/Pushpa%20The%20Rise%20%282021%29%201080p%20WEBDL.mp4
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="BD CHENNAL", Somoy Tv Hd
-http://103.147.169.52:8080/auth/k-XLdMcl76JZGMrsAgu6Wj-YuNASGBdNGVPnRsBeJk-_yiMjg8grXAKrbT7ceqb9bzckPshqvuRT_ibldUfWfyJuV3CiXrZUHBrbfaF5_S-XS42s9xG1rLDoMYNRgyobdPm-cvrmEpzn7Y6QsHaC29CKSk8kgwf38LyZ-wgPvs1ddH0Hc4JHersXPX0JN9ZuvhgJPnWD_zS23fjaYwd_eZRJA4CCcgYUBejhzkDwI7x8cSbAGd170wGU1w-LjGm9Z1MovyvvnmytG2zyQrFGRSfxy_iw7Mz8_iNglzOVnZ6qgaO_ipJRkv445JxCr1X2Hgdcwvzo0coyrYeh6C5EfnSH74XzgmT-kyH-glT6SJXxy5eKhooEw-YDTPca2131VFZDlT0a6slZ-U74hEBdL2oUXc7DuecCGH0gx7Nh_0s5RVwIAzq94DA3FrYMDX1q6gjEtI034zDuVJlMzSm1_LoSGslDUOZMwPaUI_nu8FMw1Dj-DhyB6lFgDVgyoR_92AXKZDG9rMzEWJK4pdN5gN9ve3yvXDNMENyWmtYUCkzmkWMnuxe918pfQVqQkOaBy36u24Rs3Qth5wA7hxyTW4ufsMy0CQAQqRNnxvM4YuQ3QOfaQjcwkFq-1YIr4QWtcyXOB6Jdr8utRa-MqojPEC9amKODMHe0ImknIl4PiZinoyv7A9OPREq414QW6szT
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/46/logo/240x240/mobile_logo_222968001673182917.png" group-title="BD CHENNAL", Jamuna Tv News
+https://utube.buddyxiptv.com/@JamunaTVbd.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18832/logo/240x240/mobile_logo_166779001683805822.png" group-title="INDIA BD CHENNAL", Star Jalsha Hd 
@@ -362,13 +362,16 @@ https://fifabd.xyz/KID/play.m3u8?id=307079
 https://fifabd.xyz/KID/play.m3u8?id=315401
 
 
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/52/logo/240x240/mobile_logo_262737001655890931.png" group-title="BD CHENNAL", Channel 24  
+https://utube.buddyxiptv.com/@channel24digital.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/334/logo/240x240/mobile_logo_355998001673183662.png" group-title="BD CHENNAL", Ekushey Tv
+https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
 
-
-
-
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/335/logo/240x240/mobile_logo_946452001655891077.png" group-title="BD CHENNAL", DBC News 
+https://utube.buddyxiptv.com/@dbcnewstv.m3u8
 
 
 
