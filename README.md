@@ -267,8 +267,8 @@ http://tv.cloudcdn.me/live.ts?channelId=44150&uid=13433&deviceMac=00:1A:79:00:97
 http://103.151.60.174/manikvai@hoichoi24.com-t-sports
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="KIDS CHENNAL", Pogo SD
-https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/cb543d1e786c648e93d43660cef342a6f9481fde1d6988693eb5518975d10725dce2b48be65b9e3608dd4087351a6c535677ab66ad0311badc6ac8136b650705dad8ee2ebecc4072eb9c102f29b4641d57ee166ea8412e5e95a916018e38f55e0010e30627161185af06f0234dc4820a957f378dadd468277c5e5a8f2002b7f902f6ef820c13892ef8ae194b923146e19056cdd74ae986dd0ec85ed723a4468093f1de860d8b86c231b401b4660d0d7b2bcf867fca9c07f6b0f4683d8f3f29560e6ae2ac9eff4732f4292930e3defb8f5adb3ce3a80caf7d6dc76af44e8023c46aba1998ef4fada8c9b3282b2285f46b5e0981c88597a14559d467ffb1a7de7c6c89f7661b2da83c8251415f91f9d85a80ca11e4de49e3af592e11e48c1fe3f7d582eba3c34e9231b8aa9ef326766f512327b27292ae70e907b70cc05b8708262f6689d83fe687d7593c634b839356a67c71dbfab8f3148aa6a81a7f7bfb69d8216526ac662d144d4c88c8093cc3efd9d21544e9b2db04d00b8e0cbfcdfaf60f3afafacf43f46ed56d6bb8e82fa67735550eb2bd7911150c35fce7681828228364ead7d8ee7e0d40bda596bef07c1b28793a004cbbf0e839dbafd0391113f656244b7d0458c35781278c56094805e12afe804534890f2a28a6803a5e5163df88928995d9c741fa2e819fb369616d093ae47d54723b939b825bf4344e3e495c860e764af2520915a4c69f97f4ea09ef9260b8376b1011a7a1453b4e38155b039a9f65de2c84ab14b894c755b688bd3d66aa7c855052f2fdd36ef1e184877f079fa4521305c68b3fa4846ab4c4b18cda62006f871f847ab262/18/1280x720_3000800/index.m3u8
+#EXTINF:-1 tvg-logo="Logo Link" group-title="KIDS CHENNAL", Pogo Hindi
+https://fifabd.xyz/KID/play.m3u8?id=150483
 
 
 #EXTINF:-1 tvg-logo="Logo Link" group-title="MUSIC CHENNAL", Sangeet Bangla
@@ -291,11 +291,11 @@ http://humsab.xyz/IN_SonyMaxHD/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="Logo Link" group-title="KIDS CHENNAL", Disney Hindi
-https://bdix.proximitybd.xyz/cric/digital.php?id=561
+https://fifabd.xyz/KID/play.m3u8?id=167551
 
 
 #EXTINF:-1 tvg-logo="Logo Link" group-title="KIDS CHENNAL", Hungama Hindi  
-http://lifetvbd.xyz:8080/auth/lIcpiscobIpcWNYjtlrQZTeWBtzaEkbNjzqRp_8CZmXXbI4CRavI-FubFD6H7XLpIzsm5bPbdmC09Smivotfgcg3zTW3tW_CpPkxtK7k8Z74lcrQE1id5EQRcjgvqIrAVViwNApmZuwQWNsLYgarWJktOL28-VNzx2eJ8sASfdeqOTY6exLlQRS0MVxZi-4jAbgafxp_O1JpG7n3aJluslMNbQu9APQpkN6-dJBk21lDBBRY3l5F20xNwTfcifw0vAD8vAfRmyxiql-gLktaWrnJHFvW-PaCm-pXR5oIVtQ5vLEiDA4r8mBhXEBW_Vh-Pu59ltwCVJDGIsngsc5DuqrI4FIzkWDcYuooiukXseeqWSH_0eJeJKybXLInW58Qju5gchtyr9hkFYUILKl21iGOZh--V7f_VWxTJH70rMU5b6N2mEdzF7qlbUF98cSi5iqSlgASynhGtux3JQFvHKEYCnoV2SWpDnzNG6mIpFdYSVDnsE_UXyUiTlBlSpVJyFy7a0QDCRPoklR8Q7zIBD1_B_g-pJvU-kD6yEkn0Z0LflLHIZEOQsXuYyq09XIn6sjri4rIIj8T3SrM4U84lLIqijrYiG_9jukGluSKA2pDQZI8fxB9oDQe7YQ8LAnivJch-8yyTeB8gO0ZQ8b7Dw
+https://fifabd.xyz/KID/play.m3u8?id=150480
 
 
 #EXTINF:-1 tvg-logo="Logo Link" group-title="KIDS CHENNAL", Nick Hindi
@@ -329,9 +329,8 @@ http://45.250.20.254/collection/Movies/South%20Indian%20%28Hindi%20Dubbed%29/Baa
 http://45.250.20.254/collection/Movies/South%20Indian%20%28Hindi%20Dubbed%29/K.G.F%20Chapter%202%20%282022%29%201080p%20WEBDL.mp4
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="KIDS CHENNAL", Disney SD
-http://103.84.173.141:8080/auth/FOMEyzxM9srjnF7J9DWpf66nzlFGzngd0enJa2C-RiZy9SNEbjZikzLMKfmbVMTyqAxF6tttoU-rEFTl-gCTo1sotcUbrvWjvemk28B3sz2FckJ_rP4n0ZF50AtUF6Pa7mtCxl3W_LQ2ReILumCO3RUgjKWE9AV5rU_hn3CdF1MBsVQgWEsy95za96awss6N-lZxNqkPeUVK5Hp3vOF41UvfTjr27R_7ES1-4nqLc-TsxMrQNpROcx60HPDM4zUvJgBDeOwa8F09a5pwVC9CU5zdbL7USYLS1KdaS-tZ5_N9EiD-TxAhQRDvYpcpAPNm0Srkja57UqQCTgYiX1FMD2jOQemCQaUa43b8leF6zxbv9bvuesz7Cxbf8sYhoJULtdhHAQzB4rRTlXP7L6NPJXQcSZBFO6nu4zPODqJI0LLVMczmlMoY0VmGm5yTslikbVcVUA-0B7Q3a1Ozal8QWhaOCaXW11n5aYcLIJhXVmg197xuAGX5gvBQ7fgYJzaUipvmX0jL303UssjAsAniCcNaZbo-hIsVxoB_oUS75g0trfFJLHx-Y7f8DKbgrm3StGxJi5t3pJetp3JB2Htjre0nfQcALC5YntYIP2ex7YHDl8ulQZUFR1R1_Wywifdx
-
+#EXTINF:-1 tvg-logo="Logo Link" group-title="KIDS CHENNAL", Disney HD
+http://xtv.ooo:8080/live/927382370/837382809/167551.m3u8
 
 #EXTINF:-1 tvg-logo="Logo Link" group-title="HORROR MOVIES", 1921 Horror
 http://45.250.20.254/collection/Movies/Hindi/1921%20%282018%29%201080p%20BluRay.mp4
