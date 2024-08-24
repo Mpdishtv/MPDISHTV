@@ -250,11 +250,11 @@ http://103.147.169.52:8080/auth/k-XLdMcl76JZGMrsAgu6Wj-YuNASGBdNGVPnRsBeJk-_yiMj
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18832/logo/240x240/mobile_logo_166779001683805822.png" group-title="INDIA BD CHENNAL", Star Jalsha Hd 
 http://217.20.112.199/starjalshahd/index.m3u8
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="INDIA BD CHENNAL", Zee Bangla Hd 
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/340/logo/240x240/mobile_logo_094417001655891123.png" group-title="INDIA BD CHENNAL", Zee Bangla Hd 
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1.m3u8
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="INDIA BD CHENNAL", Jalsha Movies Hd
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18834/logo/240x240/mobile_logo_267398001683804913.png" group-title="INDIA BD CHENNAL", Jalsha Movies Hd
 http://humsab.xyz/IN_JALSHAMOVIES/index.m3u8
 
 
@@ -262,11 +262,11 @@ http://humsab.xyz/IN_JALSHAMOVIES/index.m3u8
 http://tv.cloudcdn.me/live.ts?channelId=44150&uid=13433&deviceMac=00:1A:79:00:97:A1
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="SPORTS CHENNAL", T Sports HD
+#EXTINF:-1 tvg-logo="https://image.tsports.com/images/mobile_logo/1719127161-LIVE.jpg" group-title="SPORTS CHENNAL", T Sports HD
 http://103.151.60.174/manikvai@hoichoi24.com-t-sports
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="KIDS CHENNAL", Pogo Hindi
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/27159/logo/240x240/mobile_logo_740957001679201029.png" group-title="KIDS CHENNAL", Pogo Hindi
 https://fifabd.xyz/KID/play.m3u8?id=150483
 
 
@@ -297,7 +297,7 @@ https://fifabd.xyz/KID/play.m3u8?id=167551
 https://fifabd.xyz/KID/play.m3u8?id=150480
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="KIDS CHENNAL", Nick Hindi
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2430/logo/240x240/mobile_logo_823707001655891853.png" group-title="KIDS CHENNAL", Nick Hindi
 http://14.102.123.50:5001/live/1476.m3u8
 
 #EXTINF:-1 tvg-logo="Logo Link" group-title="INDIA BD CHENNAL", Colours Bangla Cinema 
@@ -346,11 +346,11 @@ https://cdn.hotflix-bd.online/hotflixbd/T-Sports/index.m3u8
 http://zx.rpstv.xyz:8081/bangla/bdstarjhalsamovies/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNC8yMDI0IDE6MTU6MjkgQU0maGFzaF92YWx1ZT0yaHkvQ2F4UmVESjFzZGp2d0pxdkt3PT0mdmFsaWRtaW51dGVzPTImaWQ9NDE2OA==
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="INDIA BD CHENNAL", Colours Bangla
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2505/logo/240x240/mobile_logo_200057001655891962.png" group-title="INDIA BD CHENNAL", Colours Bangla
 http://14.102.123.50:5001/live/1369.m3u8
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="INDIA BD CHENNAL", Zee Bangla Cinema 
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/804/logo/240x240/mobile_logo_370803001655891689.png" group-title="INDIA BD CHENNAL", Zee Bangla Cinema 
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=f77vf029&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
 
 
