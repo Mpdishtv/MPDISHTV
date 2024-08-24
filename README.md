@@ -350,7 +350,7 @@ http://zx.rpstv.xyz:8081/bangla/bdstarjhalsamovies/playlist.m3u8?wmsAuthSign=c2V
 http://14.102.123.50:5001/live/1369.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/804/logo/240x240/mobile_logo_370803001655891689.png" group-title="INDIA BD CHENNAL", Zee Bangla Cinema 
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/403/logo/240x240/mobile_logo_368845001655891378.png" group-title="INDIA BD CHENNAL", Zee Bangla Cinema 
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=f77vf029&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
 
 
