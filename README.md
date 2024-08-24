@@ -338,7 +338,8 @@ http://45.250.20.254/collection/Movies/Hindi/1921%20%282018%29%201080p%20BluRay.
 http://45.250.20.254/collection/Movies/South%20Indian%20%28Hindi%20Dubbed%29/Hello%20%28Taqdeer%29%20%282017%29%201080p%20WEBDL.mp4
 
 
-
+#EXTINF:-1 tvg-logo="Logo Link" group-title="SPORTS CHENNAL", T Sports HD 
+https://cdn.hotflix-bd.online/hotflixbd/T-Sports/index.m3u8
 
 
 
