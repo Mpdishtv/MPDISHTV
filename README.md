@@ -302,8 +302,7 @@ https://fifabd.xyz/KID/play.m3u8?id=150480
 http://14.102.123.50:5001/live/1476.m3u8
 
 #EXTINF:-1 tvg-logo="Logo Link" group-title="INDIA BD CHENNAL", Colours Bangla Cinema 
-http://cdn1.digitalviewonline.xyz:8080/auth/l4Zsmr3ZaTr-WTsMGZfyMYRp0TPBiDVSePyHNNvSwYpdLF1huEEJT6Uk3sYSWkMbAWqWXCG45D0cvjgfueywUMIXxwubmriV_oqdTze7xSjKFfaQa_xQPeiYZi3lbrrwGJJ_EiWXTzSvgE9qXMni9wRtRNZoW3jD8mHBlqybt6o_TRLSF0AMjijuDq9K4bh217EMtUsHxMgeicaT7cRT_YLPiQ7MpNkb8wxrO1Bjd7Dgz7ccoIhTtSXroSWEs9sIeRaUd_Il5WzIsd46G9FiKuFaJaPmJ4Ns8l381GT6uymIQJj-GjYgHPTR12o7MBvYjBLrwNE_Z3PRUB1leu5i-2nOkjGgnh8MyFkogsF-WTZTFd_5m37RDqR40oKKUnWulgofQnoKDsA2APmoi7qqGtaUbvoPR0IH2caRm74eFV-M_QSxAzOO12um9uz1f6zH5LcFbxc_1M32Ir9xt4XDH8WZtXa7LxMQwcxtcWwpVZjeRhVzctP-9ehUk6A6QydPcxkWSKTux3SiRBIp2jQW0yLR_K2YOjpY9kWW5RoxJKDvn5n_BQD-R1fHjz_Yilk8-zfKqAXIvS-fh8VFIShIl2dr0VhNPocAPaIwdslZn_xh2OPDbOv12iS5esuR5qoNiWFl2Jbl3i_R-udu1H-VqXDNuGl51ehT6RvV76TN264
-
+http://filex.tv:8080/live/munna/9090/455326.ts
 
 #EXTINF:-1 tvg-logo="https://ibb.co/9qcd7nz" group-title="PYASH DTH", @Pyash8989
 m3u8 link
