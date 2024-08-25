@@ -63,7 +63,7 @@ http://45.250.20.254/collection/Movies/Bangla%20%28Kolkata%29/Paglu%20%282011%29
 http://45.250.20.254/collection/Movies/Bangla%20%28Kolkata%29/Power%20%282016%29%201080p%20WEBRip.mp4
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="SPECIAL MOVIES", Rocky
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9FNtBxLF/images-2.jpg" group-title="SPECIAL MOVIES", Rocky
 http://45.250.20.254/collection/Movies/Bangla%20%28Kolkata%29/Rocky%20%282013%29%201080p%20WEBDL.mp4
 
 
@@ -91,7 +91,7 @@ http://45.250.20.254/collection/Movies/Bangla/Kolkata/Jio%20Pagla%20%282017%29%2
 http://45.250.20.254/collection/Movies/Bangla/Kolkata/Josh%20%282010%29%201080p%20WEBRip.mp4
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="SPECIAL MOVIES", Titanic 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3JwFmMCc/images-4.jpg" group-title="SPECIAL MOVIES", Titanic 
 http://45.250.20.254/collection/English%20Movies/%281997%29/Titanic%20%281997%29%20720p%20%5BDual%20Audio%5D/Titanic%20%281997%29%20720p%20BluRay%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
 
 
@@ -103,7 +103,7 @@ http://45.250.20.254/collection/Movies/Hindi/Chennai%20Express%20%282013%29%2010
 http://45.250.20.254/collection/Movies/Hindi/Mohabbatein%20%282000%29%201080p%20BluRay.mp4
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="HORROR MOVIES", 1920 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jqchDqNf/images.jpg" group-title="HORROR MOVIES", 1920 
 http://45.250.20.254/collection/Movies/Hindi/1920%20%282008%29%20720p%20WEBRip.mp4
 
 
@@ -235,7 +235,7 @@ http://103.111.120.114:5244/p/Movies/Bangladeshi%20Movies/Osomoy%20%282024%29/Os
 http://vodlb2.zaintv.net/meDia/MoVies/BanglaMov/Villain.2018.Bengali.720p.HDRip.x264.AAC.5.1.ESubs.-UnknownStAr.Telly.mkv
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="SPECIAL MOVIES", Adventure Of JoJo
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fL67yxTT/images-3.jpg" group-title="SPECIAL MOVIES", Adventure Of JoJo
 http://vodlb2.zaintv.net/meDia/MoVies/BanglaMov/Adventures.of.Jojo.2018.Bengali.WebRip.720p.x264.AAC.Team.MS.mkv
 
 
@@ -258,7 +258,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1.m
 http://humsab.xyz/IN_JALSHAMOVIES/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="INDIA BD CHENNAL", Sony Aath 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4dKbX8GS/images.png" group-title="INDIA BD CHENNAL", Sony Aath 
 http://tv.cloudcdn.me/live.ts?channelId=44150&uid=13433&deviceMac=00:1A:79:00:97:A1
 
 
@@ -270,7 +270,7 @@ http://103.151.60.174/manikvai@hoichoi24.com-t-sports
 https://fifabd.xyz/KID/play.m3u8?id=150483
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="MUSIC CHENNAL", Sangeet Bangla
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Gpgx0WWD/images-6.jpg" group-title="MUSIC CHENNAL", Sangeet Bangla
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla.m3u8
 
 
@@ -281,11 +281,11 @@ http://45.250.20.254/collection/Movies/Hindi/Housefull%204%20%282019%29%201080p%
 http://45.250.20.254/collection/Movies/Dual%20Audio/Train%20to%20Busan%20%28Busanhaeng%29%20%282016%29%20%28Hindi%20%26%20English%29%201080p%20BluRay.mp4
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="ISLAMIC CHENNAL", Atn Islam
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mrgy5L5R/images-1.png" group-title="ISLAMIC CHENNAL", Atn Islam
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnislamictv.stream/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="HINDI CHENNAL", Sony Max HD 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FHZxpdGD/Sony-Max-Logo-wine.png" group-title="HINDI CHENNAL", Sony Max HD 
 http://humsab.xyz/IN_SonyMaxHD/index.m3u8
 
 
@@ -300,7 +300,7 @@ https://fifabd.xyz/KID/play.m3u8?id=150480
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2430/logo/240x240/mobile_logo_823707001655891853.png" group-title="KIDS CHENNAL", Nick Hindi
 http://14.102.123.50:5001/live/1476.m3u8
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="INDIA BD CHENNAL", Colours Bangla Cinema 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jzmqjc3s/Colors-Bangla-Cinema.png" group-title="INDIA BD CHENNAL", Colours Bangla Cinema 
 http://filex.tv:8080/live/munna/9090/455326.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PqytNbRz/1723965803707.jpg" group-title="PYASH DTH", @Pyash8989
@@ -311,7 +311,7 @@ m3u8 link
 http://45.250.20.254/collection/Movies/South%20Indian%20%28Hindi%20Dubbed%29/Baahubali%202%20The%20Conclusion%20%282017%29%201080p%20BluRay.mp4
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="INDIA BD CHENNAL", Star Jalsha Sd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VLXgSHty/Star-Jalsha-logo-2023.png" group-title="INDIA BD CHENNAL", Star Jalsha Sd
 http://humsab.xyz/IN_JALSHAS/index.m3u8
 
 
@@ -330,7 +330,7 @@ http://45.250.20.254/collection/Movies/South%20Indian%20%28Hindi%20Dubbed%29/K.G
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/15pCwypM/IMG-20240824-215537.jpg" group-title="KIDS CHENNAL", Disney HD
 http://xtv.ooo:8080/live/927382370/837382809/167551.m3u8
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="HORROR MOVIES", 1921 Horror
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qd2Q2FL2/images-1.jpg" group-title="HORROR MOVIES", 1921 Horror
 http://45.250.20.254/collection/Movies/Hindi/1921%20%282018%29%201080p%20BluRay.mp4
 
 
@@ -342,7 +342,7 @@ http://45.250.20.254/collection/Movies/South%20Indian%20%28Hindi%20Dubbed%29/Hel
 https://cdn.hotflix-bd.online/hotflixbd/T-Sports/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="INDIA BD CHENNAL", Jalsha Movies Sd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59hp2M6q/8pjig5P8.webp" group-title="INDIA BD CHENNAL", Jalsha Movies Sd
 http://zx.rpstv.xyz:8081/bangla/bdstarjhalsamovies/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNC8yMDI0IDE6MTU6MjkgQU0maGFzaF92YWx1ZT0yaHkvQ2F4UmVESjFzZGp2d0pxdkt3PT0mdmFsaWRtaW51dGVzPTImaWQ9NDE2OA==
 
 
@@ -354,11 +354,11 @@ http://14.102.123.50:5001/live/1369.m3u8
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=f77vf029&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/PqytNbRz/1723965803707.jpg" group-title="KIDS CHENNAL", Motu Patlu 24/7
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tT5FnD1b/images-5.jpg" group-title="KIDS CHENNAL", Motu Patlu 24/7
 https://fifabd.xyz/KID/play.m3u8?id=307079
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/PqytNbRz/1723965803707.jpg" group-title="KIDS CHENNAL", Chotta Bheem 24/7
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/brVb3JHF/images-7.jpg" group-title="KIDS CHENNAL", Chotta Bheem 24/7
 https://fifabd.xyz/KID/play.m3u8?id=315401
 
 
