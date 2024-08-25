@@ -374,6 +374,61 @@ https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 https://utube.buddyxiptv.com/@dbcnewstv.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PJ6GfMfp/images.jpg" group-title="BD CHENNAL", Somoy Tv 
+http://xtv.ooo:8080/live/927382370/837382809/245925.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/B6B9k0dC/images-1.jpg" group-title="BD CHENNAL",  Ekattor Tv
+http://tv.digitalview.live:8080/live/abidhasan/283829471947229/364.ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
