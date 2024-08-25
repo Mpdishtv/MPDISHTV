@@ -47,7 +47,7 @@ http://45.250.20.254/collection/Movies/Bangla%20%28Kolkata%29/Kelor%20Kirti%20%2
 http://45.250.20.254/collection/Movies/Bangla%20%28Kolkata%29/Khoka%20420%20%282013%29%201080p%20WEBRip.mp4
 
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODQ3YjhmMTktYWIwZC00YjE0LWI0YTItNGExYjk3NDI4OTE3XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg" group-title="DEV", Love Express 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Vks1Fv5g/images-2.jpg" group-title="DEV", Love Express 
 http://45.250.20.254/collection/Movies/Bangla%20%28Kolkata%29/Love%20Express%20%282016%29%20720p%20WEBHD.mp4
 
 
@@ -67,15 +67,15 @@ http://45.250.20.254/collection/Movies/Bangla%20%28Kolkata%29/Power%20%282016%29
 http://45.250.20.254/collection/Movies/Bangla%20%28Kolkata%29/Rocky%20%282013%29%201080p%20WEBDL.mp4
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="DEV", Shedin Dakha Hoye Chilo
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/g20FZ7BB/IMG-20240825-113040.jpg" group-title="DEV", Shedin Dakha Hoye Chilo
 http://45.250.20.254/collection/Movies/Bangla%20%28Kolkata%29/Shedin%20Dekha%20Hoyechilo%20%282010%29%201080p%20WEBRip.mp4
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="DEV", Shudu Tomere Jonnye
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZ0hrwCF/MV5-BMj-Aw-ZGY1-ODct-Nj-M3-MC00-Nj-Ey-LTg4-Yz-It-OWZm-Nz-Nm-MDc0-Mj-Yy-Xk-Ey-Xk-Fqc-Gde-QXVy-ODE5-Nz-E3-OTE-V1.jpg" group-title="DEV", Shudu Tomere Jonnye
 http://45.250.20.254/collection/Movies/Bangla%20%28Kolkata%29/Shudhu%20Tomari%20Jonyo%20%282015%29%201080p%20WEBRip.mp4
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="DEV", Yoddha 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ncHNy5Zc/MV5-BZDA2-Nj-Jl-OWQt-Mm-Q5-Mi00-Nj-Ji-LTkx-Zj-It-Nj-M3-NThk-Ym-Qw-Mz-Zi-Xk-Ey-Xk-Fqc-Gde-QXVy-ODE5-Nz-E3-OTE-V1.jpg" group-title="DEV", Yoddha 
 http://45.250.20.254/collection/Movies/Bangla%20%28Kolkata%29/Yoddha%20%282014%29%201080p%20WEBRip.mp4
 
 
@@ -87,7 +87,7 @@ http://45.250.20.254/collection/Movies/Bangla%20%28Kolkata%29/Zulfiqar%20%282016
 http://45.250.20.254/collection/Movies/Bangla/Kolkata/Jio%20Pagla%20%282017%29%201080p%20WEBDL.mp4
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="JEET", Josh  
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0QV7bb64/IMG-20240824-215801.jpg" group-title="JEET", Josh  
 http://45.250.20.254/collection/Movies/Bangla/Kolkata/Josh%20%282010%29%201080p%20WEBRip.mp4
 
 
@@ -143,7 +143,7 @@ http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Mov
 http://103.111.120.114:5244/p/Movies/Indian%20Bangla%20Movies/2015/Jamai%20420%20%282015%29/Jamai%20420%20%282015%29.mp4
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="DEV", Romeo 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Rhm2VpHd/Romeo-2011-Movie-Poster.jpg" group-title="DEV", Romeo 
 http://62.210.123.84:8080/movie/majnoni990/0507657990/119698.mkv?token=HhZfUENZQwMTVQQBAVQAVgJWUwJUBQZXAg9TAgUFB1MGAQ5SVgBRX1cSGhFFFhZVAg5qXlIXXwQFAFcNCRsWERZRRW5ZVUMDEwMAAg9VRhxBF1xaUxdfBAMLVQUFDwFTUxgVQVlVQwMTBgAABkBIEgYbQVJEWwRZa10EQlhUUUZfFhUdEl4PZlVVW1JYBkYKQVMXGxRcFkUWAw9BXVsYRgddQ0NRRQQbCxICAQBASBIADEBZQkccFw4bI3ATGxYBHUBSX0NYDlcTChReXRRGHEEKRmhEUBZBRlwAWVRFFl5HBBUdElwAQW5TWV1YBwdECgxbRBQPRwQWFUNZXlldEApGaEFZVUMDX0VaX0s=
 
 
@@ -151,7 +151,7 @@ http://62.210.123.84:8080/movie/majnoni990/0507657990/119698.mkv?token=HhZfUENZQ
 http://103.111.120.114:5244/p/Movies/Indian%20Bangla%20Movies/2009/Poran%20Jaye%20Jolia%20Re%20%282009%29/Poran%20Jaye%20Jolia%20Re%20%282009%29.mp4
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="DEV", KhokaBabu
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/2jxK7wvp/IMG-20240824-215736.jpg" group-title="DEV", KhokaBabu
 http://62.210.123.84:8080/movie/majnoni990/0507657990/119666.mkv?token=HhZfUENZQwMTAgEHAVNTVQJbBgQDAgBRVQoAAgdRDVddVVMFA1UFDQUSGhFFFhZVAg5qXlIXXwQFAFcCBxsWERZRRW5ZVUMDEwMAAg9VRhxBF1xaUxdfBAMLVQUFDgRdVhgVQVlVQwMTBgIBA0BIEgYbQVJEWwRZa10EQlhUUUZfFhUdEl4PZlVVW1JYBkYKQVMXGxRcFkUWAw9BXVsYRgddQ0NRRQQbCxIHAg5VRhxBAFpCWEEXTBYDQ3Z1FRhGAExDVF5CCFZfEgwRWwkSEk9BXERpRwBGQEsEVVxSRkZfFgcTHBMMWElvVVxYDAFTFwpaWUUXXxcFG00WXFhaDRFbRW5AWAUbC15DX1of
 
 
@@ -159,11 +159,11 @@ http://62.210.123.84:8080/movie/majnoni990/0507657990/119666.mkv?token=HhZfUENZQ
 http://103.111.120.114:5244/p/Movies/Indian%20Bangla%20Movies/1900-2008/Premer%20Kahini%20%282008%29/Premer%20Kahini%20%282008%29.mp4
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="BONNY", Perbo Na Ami Charte Toke
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zfSCYdq8/IMG-20240824-215900.jpg" group-title="BONNY", Perbo Na Ami Charte Toke
 http://62.210.123.84:8080/movie/majnoni990/0507657990/119686.mkv?token=HhZfUENZQwMTVA8FAlJTCAUAAlFSAgYHUApTDAMCAFVRUAABBVBXWwISGhFFFhZVAg5qXlIXXwQFAFcMBxsWERZRRW5ZVUMDEwMAAg9VRhxBF1xaUxdfBAMLVQYDDwJUURgVQVlVQwMTBgMGAUBIEgYbQVJEWwRZa10EQlhUUUZfFhUdEl4PZlVVW1JYBkYKQVMXGxRcFkUWAw9BXVsYRgddQ0NRRQQbCxIHAAFbRhxBAFpCWEEXTBYDQ3Z1FRhGAExDVF5CCFZfEgwRWwkSEk9BXERpRwBGQEsEVVxSRkZfFgcTHBMMWElvVVxYDAFTFwpaWUUXXxcFG00WXFhaDRFbRW5AWAUbC15DX1of
 
 
-#EXTINF:-1 tvg-logo="https://c.saavncdn.com/650/Bindaas-Bengali--Bengali-2014-20190104204105-500x500.jpg" group-title="DEV", Bindass
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/85SZhJzP/MV5-BZjlm-YTQ0-Nm-It-Nzkx-Mi00-MWVm-LWI1-M2-It-ZTc4-Y2-Ux-Yz-Rm-Ym-Qz-Xk-Ey-Xk-Fqc-Gde-QXVy-Nj-A3-OTI5-Mj-A-V1.jpg" group-title="DEV", Bindass
 http://62.210.123.84:8080/movie/majnoni990/0507657990/119627.mkv?token=HhZfUENZQwMTAAYBUgNSAwcCAAQPAAcEBVxWVgNSVlZXB1QDBlJXCAcSGhFFFhZVAg5qXlIXXwQFAFcGBhsWERZRRW5ZVUMDEwMAAg9VRhxBF1xaUxdfBAMLVQYDDgNXURgVQVlVQwMTBgcKBUBIEgYbQVJEWwRZa10EQlhUUUZfFhUdEl4PZlVVW1JYBkYKQVMXGxRcFkUWAw9BXVsYRgddQ0NRRQQbCxIPBQFASBIADEBZQkccFw4bI3ATGxYBHUBSX0NYDlcTChReXRRGHEEKRmhEUBZBRlwAWVRFFl5HBBUdElwAQW5TWV1YBwdECgxbRBQPRwQWFUNZXlldEApGaEFZVUMDX0VaX0s=
 
 
@@ -175,15 +175,15 @@ http://62.210.123.84:8080/movie/majnoni990/0507657990/119627.mkv?token=HhZfUENZQ
 http://103.111.120.114:5244/p/Movies/Indian%20Bangla%20Movies/2012/Bojhena%20Shey%20Bojhena%20%282012%29/Bojhena%20Shey%20Bojhena%20%282012%29.mp4
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="DEV", Challenge 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8zf49BFz/IMG-20240824-220009.jpg" group-title="DEV", Challenge 
 http://103.111.120.114:5244/p/Movies/Indian%20Bangla%20Movies/2009/Challenge%20%282009%29/Challenge%20%282009%29.mp4
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="DEV", Challenge 2 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N014fskh/IMG-20240824-215947.jpg" group-title="DEV", Challenge 2 
 http://103.111.120.114:5244/p/Movies/Indian%20Bangla%20Movies/2012/Challenge%202%20%282012%29/Challenge%202%20%282012%29.mp4
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="BONNY", Tomake Chai 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3NwCBg57/IMG-20240824-215838.jpg" group-title="BONNY", Tomake Chai 
 http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282017%29/Tomake%20Chai%202017%20%5BBengali%5D%20%201080p/Tomake%20Chai%202017%20%5BBengali%5D%20%201080p.mkv
 
 
@@ -199,7 +199,7 @@ http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Mov
 http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282010%29/Bolo%20Na%20Tumi%20Amar%20%282010%29%20Bengali%201080p%20WEB-DL/Bolo.Na.Tumi.Amaar.2010.1080p.DSNP.WEB-DL.AAC2.0.H.264.mkv
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="HIRON", Mon Je Kore Uru Uru
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/y8Rhv15J/IMG-20240824-215923.jpg" group-title="HIRON", Mon Je Kore Uru Uru
 http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282010%29/Mon%20Je%20Kore%20Uru%20Uru%20%282010%29%20Bengali%20WEB-DL%20720p/Mon%20Je%20Kore%20Uru%20Uru-ftpbd.mkv
 
 
@@ -219,7 +219,7 @@ http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Mov
 http://103.111.120.114:5244/p/Movies/Indian%20Bangla%20Movies/2016/Jio%20Pagla%20%282017%29/Jio.Pagla.2017.Bengali.1080p.WEB-DL.mp4
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="HIRON", Le Halua Le
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yxrhrksR/IMG-20240824-220148.jpg" group-title="HIRON", Le Halua Le
 http://103.111.120.114:5244/p/Movies/Indian%20Bangla%20Movies/2012/Le%20Halua%20Le%20%282012%29/Le%20Halua%20Le%20%282012%29.mp4
 
 
@@ -293,7 +293,7 @@ http://humsab.xyz/IN_SonyMaxHD/index.m3u8
 https://fifabd.xyz/KID/play.m3u8?id=167551
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="KIDS CHENNAL", Hungama Hindi  
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bND1wYq6/IMG-20240824-215647.jpg" group-title="KIDS CHENNAL", Hungama Hindi  
 https://fifabd.xyz/KID/play.m3u8?id=150480
 
 
