@@ -83,7 +83,7 @@ http://45.250.20.254/collection/Movies/Bangla%20%28Kolkata%29/Yoddha%20%282014%2
 http://45.250.20.254/collection/Movies/Bangla%20%28Kolkata%29/Zulfiqar%20%282016%29%201080p%20WEBRip.mp4
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="BONNY", Jio Pagla 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YSWWtdkh/images-17.jpg" group-title="BONNY", Jio Pagla 
 http://45.250.20.254/collection/Movies/Bangla/Kolkata/Jio%20Pagla%20%282017%29%201080p%20WEBDL.mp4
 
 
@@ -215,7 +215,7 @@ http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Mov
 http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282012%29/Jaaneman%20%282012%29/Jaaneman%20%282012%29%20DvDRip%20450MB%20%5BDoridro.com%5D.mkv
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="HIRON", Jio Pagla 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRNRYd0L/IMG-20240825-123821.jpg" group-title="HIRON", Jio Pagla 
 http://103.111.120.114:5244/p/Movies/Indian%20Bangla%20Movies/2016/Jio%20Pagla%20%282017%29/Jio.Pagla.2017.Bengali.1080p.WEB-DL.mp4
 
 
