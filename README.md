@@ -215,8 +215,8 @@ http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Mov
 http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282012%29/Jaaneman%20%282012%29/Jaaneman%20%282012%29%20DvDRip%20450MB%20%5BDoridro.com%5D.mkv
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRNRYd0L/IMG-20240825-123821.jpg" group-title="HIRON", Jio Pagla 
-http://103.111.120.114:5244/p/Movies/Indian%20Bangla%20Movies/2016/Jio%20Pagla%20%282017%29/Jio.Pagla.2017.Bengali.1080p.WEB-DL.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png" group-title="BD CHENNAL", Gazi Tv
+https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/playlist.m3u8?md5=NPYUKjaQzKH-LZ6AID3IRg&expires=1724793073&user=ec6dd7dec84545a2a15edb664bb2d4aa
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yxrhrksR/IMG-20240824-220148.jpg" group-title="HIRON", Le Halua Le
