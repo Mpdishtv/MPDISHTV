@@ -19,7 +19,7 @@ http://45.250.20.254/collection/Movies/Bangla%20%28Kolkata%29/Paglu%202%20%28201
 http://45.250.20.254/collection/Movies/Bangla%20%28Kolkata%29/Awara%20%282012%29%201080p%20WEBRip.mp4
 
 
-#EXTINF:-1 tvg-logo="https://pic.bstarstatic.com/ugc/60b9774104fb3fe2106fe5bd5c4de5a6.jpg@320w_180h_1e_1c_90q" group-title="BONNY", Boarbadd 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0jtK2341/images.jpg" group-title="BONNY", Boarbadd 
 http://45.250.20.254/collection/Movies/Bangla%20%28Kolkata%29/Borbaad%20%282014%29%201080p%20WEBRip.mp4
 
 
