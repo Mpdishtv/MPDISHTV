@@ -215,7 +215,7 @@ http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Mov
 http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282012%29/Jaaneman%20%282012%29/Jaaneman%20%282012%29%20DvDRip%20450MB%20%5BDoridro.com%5D.mkv
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8chV094/20240811-223348.png" group-title="BD CHENNAL", Gazi Tv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCYFJDCS/Gtv-live-cricket-logo.png" group-title="BD CHENNAL", Gazi Tv
 https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/playlist.m3u8?md5=NPYUKjaQzKH-LZ6AID3IRg&expires=1724793073&user=ec6dd7dec84545a2a15edb664bb2d4aa
 
 
