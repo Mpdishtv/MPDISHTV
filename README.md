@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzRlNWJlOTYtZmJkOC00ZTRjLWFiODYtZjc3MzJkODVhNTYyXkEyXkFqcGdeQXVyNjgyOTIyNTM@._V1_QL75_UX820_.jpg" group-title="DEV", I Love You
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/2yJjtfJy/IMG-20240825-112836.jpg" group-title="DEV", I Love You
 http://45.250.20.254/collection/Movies/Bangla%20%28Kolkata%29/I%20Love%20You%20%282007%29%201080p%20WEBRip.mp4
 
 
@@ -11,7 +11,7 @@ http://45.250.20.254/collection/Movies/Bangla%20%28Kolkata%29/100%25%20Love%20%2
 http://45.250.20.254/collection/Movies/Bangla%20%28Kolkata%29/Prem%20Amar%20%282009%29%201080p%20WEBDL.mp4
 
 
-#EXTINF:-1 tvg-logo="http://www.impawards.com/intl/india/2012/posters/paglu_2_xlg.jpg" group-title="DEV", Paglu 2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9K1JJ5X/IMG-20240825-112901.jpg" group-title="DEV", Paglu 2
 http://45.250.20.254/collection/Movies/Bangla%20%28Kolkata%29/Paglu%202%20%282012%29%20720p%20WEBDL.mp4
 
 
@@ -27,23 +27,23 @@ http://45.250.20.254/collection/Movies/Bangla%20%28Kolkata%29/Borbaad%20%282014%
 http://45.250.20.254/collection/Movies/Bangla%20%28Kolkata%29/Boss%202%20%282017%29%201080p%20WEBHD.mp4
 
 
-#EXTINF:-1 tvg-logo="http://www.impawards.com/intl/india/2013/posters/deewana_ver3_xlg.jpg" group-title="JEET", Dewana 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3x2rtVZr/images-1.jpg" group-title="JEET", Dewana 
 http://45.250.20.254/collection/Movies/Bangla%20%28Kolkata%29/Deewana%20%282013%29%20720p%20BrRip.mp4
 
 
-#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/68798573507213.Y3JvcCw0ODAwLDM3NTQsMCwxNTQ0.jpg" group-title="DEV", Hoichoi Unlimited 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mDpTcsTj/IMG-20240825-112929.jpg" group-title="DEV", Hoichoi Unlimited 
 http://45.250.20.254/collection/Movies/Bangla%20%28Kolkata%29/Hoichoi%20Unlimited%20%282018%29%201080p%20WEBRip.mp4
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/V6z3Tdm7/IMG-20240824-213305.jpg" group-title="HIRON", Jamai Bodol 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/j566DppL/IMG-20240824-213305.jpg" group-title="HIRON", Jamai Bodol 
 http://45.250.20.254/collection/Movies/Bangla%20%28Kolkata%29/Jamai%20Badal%20%282019%29%20720p%20WEBDL.mp4
 
 
-#EXTINF:-1 tvg-logo="https://www.tvguide.com/a/img/resize/b1da5d1e68968ee487f2aad952d1441a98e4d78d/catalog/provider/1/2/1-4880245941.jpg?auto=webp&fit=crop&height=675&width=1200" group-title="DEV", Kelor Kirti 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/C19LPg91/MV5-BMTQ4-Mj-E3-NDM2-MV5-BMl5-Ban-Bn-Xk-Ft-ZTgw-NTYz-Mzg1-MDI-V1.jpg" group-title="DEV", Kelor Kirti 
 http://45.250.20.254/collection/Movies/Bangla%20%28Kolkata%29/Kelor%20Kirti%20%282016%29%201080p%20WEBRip.mp4
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7LBQhXgk/IMG-20240824-215710.jpg" group-title="DEV", Khoka 420
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tC3C58kq/IMG-20240824-215710.jpg" group-title="DEV", Khoka 420
 http://45.250.20.254/collection/Movies/Bangla%20%28Kolkata%29/Khoka%20420%20%282013%29%201080p%20WEBRip.mp4
 
 
@@ -55,7 +55,7 @@ http://45.250.20.254/collection/Movies/Bangla%20%28Kolkata%29/Love%20Express%20%
 http://45.250.20.254/collection/Movies/Bangla%20%28Kolkata%29/Loveria%20%282013%29%201080p%20WEBRip.mp4
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="DEV", Paglu 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xd408QfR/IMG-20240825-112957.jpg" group-title="DEV", Paglu 
 http://45.250.20.254/collection/Movies/Bangla%20%28Kolkata%29/Paglu%20%282011%29%20720p%20WEBDL.mp4
 
 
