@@ -3,7 +3,7 @@
 http://45.250.20.254/collection/Movies/Bangla%20%28Kolkata%29/I%20Love%20You%20%282007%29%201080p%20WEBRip.mp4
 
 
-  #EXTINF:-1 tvg-logo="https://i.scdn.co/image/ab67616d0000b273d4c28b148cfc97c8faeb0e85" group-title="JEET", 100% Love 
+  #EXTINF:-1 tvg-logo="https://i.postimg.cc/mDSWMGRJ/images-5.jpg" group-title="JEET", 100% Love 
 http://45.250.20.254/collection/Movies/Bangla%20%28Kolkata%29/100%25%20Love%20%282012%29%201080p%20WEBRip.mp4
 
 
@@ -51,7 +51,7 @@ http://45.250.20.254/collection/Movies/Bangla%20%28Kolkata%29/Khoka%20420%20%282
 http://45.250.20.254/collection/Movies/Bangla%20%28Kolkata%29/Love%20Express%20%282016%29%20720p%20WEBHD.mp4
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="SOHAM", Loveria 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Pfc24RxR/Loveria-Bengali-movie-poster.jpg" group-title="SOHAM", Loveria 
 http://45.250.20.254/collection/Movies/Bangla%20%28Kolkata%29/Loveria%20%282013%29%201080p%20WEBRip.mp4
 
 
@@ -59,7 +59,7 @@ http://45.250.20.254/collection/Movies/Bangla%20%28Kolkata%29/Loveria%20%282013%
 http://45.250.20.254/collection/Movies/Bangla%20%28Kolkata%29/Paglu%20%282011%29%20720p%20WEBDL.mp4
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="JEET", Power 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TP9tJ2LV/Power-2016-film.jpg" group-title="JEET", Power 
 http://45.250.20.254/collection/Movies/Bangla%20%28Kolkata%29/Power%20%282016%29%201080p%20WEBRip.mp4
 
 
@@ -79,7 +79,7 @@ http://45.250.20.254/collection/Movies/Bangla%20%28Kolkata%29/Shudhu%20Tomari%20
 http://45.250.20.254/collection/Movies/Bangla%20%28Kolkata%29/Yoddha%20%282014%29%201080p%20WEBRip.mp4
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="DEV", Zulficar
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zfSc2SMR/images-4.jpg" group-title="DEV", Zulficar
 http://45.250.20.254/collection/Movies/Bangla%20%28Kolkata%29/Zulfiqar%20%282016%29%201080p%20WEBRip.mp4
 
 
@@ -131,15 +131,15 @@ http://45.250.20.254/collection/Movies/Hindi/Rowdy%20Rathore%20%282012%29%20m720
 http://45.250.20.254/collection/Movies/Hindi/Koi%20Mil%20Gaya%20%282003%29%201080p%20WEBDL.mp4
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="YASH", Mon Jane Na 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jSv8zdJz/images-10.jpg" group-title="YASH", Mon Jane Na 
 http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282019%29/Mon%20Jaane%20Na%20%282019%29%201080p/Mon%20Jaane%20Na.2019.1080p.WEB-DL.AVC.AAC.DDR.mp4
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="ANKUSH", Ki Kore Toke Bolbo 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T1r0hR65/images-11.jpg" group-title="ANKUSH", Ki Kore Toke Bolbo 
 http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282016%29/Ki%20Kore%20Toke%20Bolbo%20%282016%29%20720p/Ki%20Kore%20Toke%20Bolbo%20%20%282016%29%20%5BBengali%5D%20720p%20-%20HDRip.mkv
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="ANKUSH", Jamai 420
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DyT5Hbrr/images-12.jpg" group-title="ANKUSH", Jamai 420
 http://103.111.120.114:5244/p/Movies/Indian%20Bangla%20Movies/2015/Jamai%20420%20%282015%29/Jamai%20420%20%282015%29.mp4
 
 
@@ -147,7 +147,7 @@ http://103.111.120.114:5244/p/Movies/Indian%20Bangla%20Movies/2015/Jamai%20420%2
 http://62.210.123.84:8080/movie/majnoni990/0507657990/119698.mkv?token=HhZfUENZQwMTVQQBAVQAVgJWUwJUBQZXAg9TAgUFB1MGAQ5SVgBRX1cSGhFFFhZVAg5qXlIXXwQFAFcNCRsWERZRRW5ZVUMDEwMAAg9VRhxBF1xaUxdfBAMLVQUFDwFTUxgVQVlVQwMTBgAABkBIEgYbQVJEWwRZa10EQlhUUUZfFhUdEl4PZlVVW1JYBkYKQVMXGxRcFkUWAw9BXVsYRgddQ0NRRQQbCxICAQBASBIADEBZQkccFw4bI3ATGxYBHUBSX0NYDlcTChReXRRGHEEKRmhEUBZBRlwAWVRFFl5HBBUdElwAQW5TWV1YBwdECgxbRBQPRwQWFUNZXlldEApGaEFZVUMDX0VaX0s=
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="DEV", Poran Jay Jolia Re
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/v83dZM06/images.jpg" group-title="DEV", Poran Jay Jolia Re
 http://103.111.120.114:5244/p/Movies/Indian%20Bangla%20Movies/2009/Poran%20Jaye%20Jolia%20Re%20%282009%29/Poran%20Jaye%20Jolia%20Re%20%282009%29.mp4
 
 
@@ -155,7 +155,7 @@ http://103.111.120.114:5244/p/Movies/Indian%20Bangla%20Movies/2009/Poran%20Jaye%
 http://62.210.123.84:8080/movie/majnoni990/0507657990/119666.mkv?token=HhZfUENZQwMTAgEHAVNTVQJbBgQDAgBRVQoAAgdRDVddVVMFA1UFDQUSGhFFFhZVAg5qXlIXXwQFAFcCBxsWERZRRW5ZVUMDEwMAAg9VRhxBF1xaUxdfBAMLVQUFDgRdVhgVQVlVQwMTBgIBA0BIEgYbQVJEWwRZa10EQlhUUUZfFhUdEl4PZlVVW1JYBkYKQVMXGxRcFkUWAw9BXVsYRgddQ0NRRQQbCxIHAg5VRhxBAFpCWEEXTBYDQ3Z1FRhGAExDVF5CCFZfEgwRWwkSEk9BXERpRwBGQEsEVVxSRkZfFgcTHBMMWElvVVxYDAFTFwpaWUUXXxcFG00WXFhaDRFbRW5AWAUbC15DX1of
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="DEV", Premer Kahini
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Pxy0JzQk/images-1.jpg" group-title="DEV", Premer Kahini
 http://103.111.120.114:5244/p/Movies/Indian%20Bangla%20Movies/1900-2008/Premer%20Kahini%20%282008%29/Premer%20Kahini%20%282008%29.mp4
 
 
@@ -167,11 +167,11 @@ http://62.210.123.84:8080/movie/majnoni990/0507657990/119686.mkv?token=HhZfUENZQ
 http://62.210.123.84:8080/movie/majnoni990/0507657990/119627.mkv?token=HhZfUENZQwMTAAYBUgNSAwcCAAQPAAcEBVxWVgNSVlZXB1QDBlJXCAcSGhFFFhZVAg5qXlIXXwQFAFcGBhsWERZRRW5ZVUMDEwMAAg9VRhxBF1xaUxdfBAMLVQYDDgNXURgVQVlVQwMTBgcKBUBIEgYbQVJEWwRZa10EQlhUUUZfFhUdEl4PZlVVW1JYBkYKQVMXGxRcFkUWAw9BXVsYRgddQ0NRRQQbCxIPBQFASBIADEBZQkccFw4bI3ATGxYBHUBSX0NYDlcTChReXRRGHEEKRmhEUBZBRlwAWVRFFl5HBBUdElwAQW5TWV1YBwdECgxbRBQPRwQWFUNZXlldEApGaEFZVUMDX0VaX0s=
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="ANKUSH", Ami Je Ke Tomer
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Z5YHKtD0/images-13.jpg" group-title="ANKUSH", Ami Je Ke Tomer
 103.111.120.114:5244/p/Movies/Indian%20Bangla%20Movies/2017/Ami%20Je%20Ke%20Tomar%20%282017%29/Ami%20Je%20Ke%20Tomar%20%282017%29.mp4
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="SOHAM", Bojhena Se Bojhena 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PfB0xxmJ/images-8.jpg" group-title="SOHAM", Bojhena Se Bojhena 
 http://103.111.120.114:5244/p/Movies/Indian%20Bangla%20Movies/2012/Bojhena%20Shey%20Bojhena%20%282012%29/Bojhena%20Shey%20Bojhena%20%282012%29.mp4
 
 
@@ -187,15 +187,15 @@ http://103.111.120.114:5244/p/Movies/Indian%20Bangla%20Movies/2012/Challenge%202
 http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282017%29/Tomake%20Chai%202017%20%5BBengali%5D%20%201080p/Tomake%20Chai%202017%20%5BBengali%5D%20%201080p.mkv
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="SOHAM", Amanush 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rstG3qmY/images-7.jpg" group-title="SOHAM", Amanush 
 http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282010%29/AMANUSH%20%282010%29/Amanush.2010.1080p.AMZN.WEB-DL.DDP2.0.H.264.mkv
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="DEV", Mon Mane Na 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3JdzrGyP/images-2.jpg" group-title="DEV", Mon Mane Na 
 http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282008%29/Mon%20Mane%20Na%20%282008%29%201080p/Mon.Mane.Na.2008.1080p.WEB-DL.DDP2.0.H.264.mkv
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="DEV", Bolo Na Tumi Amer 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4xcMVTQP/images-3.jpg" group-title="DEV", Bolo Na Tumi Amer 
 http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282010%29/Bolo%20Na%20Tumi%20Amar%20%282010%29%20Bengali%201080p%20WEB-DL/Bolo.Na.Tumi.Amaar.2010.1080p.DSNP.WEB-DL.AAC2.0.H.264.mkv
 
 
@@ -203,15 +203,15 @@ http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Mov
 http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282010%29/Mon%20Je%20Kore%20Uru%20Uru%20%282010%29%20Bengali%20WEB-DL%20720p/Mon%20Je%20Kore%20Uru%20Uru-ftpbd.mkv
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="JEET", Besh Korechi Pream Korechi
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/15nY1Z2S/MV5-BODAw-NWU2-YTMt-Nz-A4-Ni00-NDZl-LWIx-MTUt-ZDg1-MGIz-Njlh-NWUx-Xk-Ey-Xk-Fqc-Gde-QXVy-ODE5-Nz-E3-OTE-V1.jpg" group-title="JEET", Besh Korechi Pream Korechi
 http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282015%29/Besh%20Korechi%20Prem%20Korechi%20%282015%29%201080p/Besh%20Korechi%20Prem%20Korechi%20%282015%29%201080p.mkv
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="YASH", Fidda 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/g2p5VTtP/images-9.jpg" group-title="YASH", Fidda 
 http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282018%29/Fidaa%20%282018%29%20Bengali%20Movie%201080p/Fidaa%202018%20Bengali%20Movie%201080p%20Amzn%20WEB-HD%20x%20265%20HEVC.mkv
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="SOHAM", Janeman 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/B6bB5TG3/images-6.jpg" group-title="SOHAM", Janeman 
 http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282012%29/Jaaneman%20%282012%29/Jaaneman%20%282012%29%20DvDRip%20450MB%20%5BDoridro.com%5D.mkv
 
 
@@ -223,15 +223,15 @@ http://103.111.120.114:5244/p/Movies/Indian%20Bangla%20Movies/2016/Jio%20Pagla%2
 http://103.111.120.114:5244/p/Movies/Indian%20Bangla%20Movies/2012/Le%20Halua%20Le%20%282012%29/Le%20Halua%20Le%20%282012%29.mp4
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="BD MOVIES", Female 4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QCrg2RT8/images-15.jpg" group-title="BD MOVIES", Female 4
 http://103.111.120.114:5244/p/Movies/Bangladeshi%20Movies/Female%204%20%282024%29/Female%204%20%282024%29%20-%20Bengali%20Bongo%201080p.mkv
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="BD MOVIES", Osomoy 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6DkWQ6S/images-16.jpg" group-title="BD MOVIES", Osomoy 
 http://103.111.120.114:5244/p/Movies/Bangladeshi%20Movies/Osomoy%20%282024%29/Osomoy%20%282024%29-Bengali%20Bongo%20WEB-DL%201080p.mkv
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="ANKUSH", Villan  
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9fKYp4Xq/images-14.jpg" group-title="ANKUSH", Villan  
 http://vodlb2.zaintv.net/meDia/MoVies/BanglaMov/Villain.2018.Bengali.720p.HDRip.x264.AAC.5.1.ESubs.-UnknownStAr.Telly.mkv
 
 
