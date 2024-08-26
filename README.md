@@ -329,7 +329,7 @@ http://45.250.20.254/collection/Movies/South%20Indian%20%28Hindi%20Dubbed%29/K.G
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/15pCwypM/IMG-20240824-215537.jpg" group-title="KIDS CHENNAL", Disney HD
-http://xtv.ooo:8080/live/927382370/837382809/167551.m3u8
+https://flixtronic.top/mc/hex.m3u8?id=156000&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Qd2Q2FL2/images-1.jpg" group-title="HORROR MOVIES", 1921 Horror
 http://45.250.20.254/collection/Movies/Hindi/1921%20%282018%29%201080p%20BluRay.mp4
