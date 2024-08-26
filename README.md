@@ -19,8 +19,8 @@ http://45.250.20.254/collection/Movies/Bangla%20%28Kolkata%29/Paglu%202%20%28201
 http://45.250.20.254/collection/Movies/Bangla%20%28Kolkata%29/Awara%20%282012%29%201080p%20WEBRip.mp4
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0jtK2341/images.jpg" group-title="BONNY", Boarbadd 
-http://45.250.20.254/collection/Movies/Bangla%20%28Kolkata%29/Borbaad%20%282014%29%201080p%20WEBRip.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/j566DppL/IMG-20240824-213305.jpg" group-title="HIRON", Jamai Bodol 
+http://45.250.20.254/collection/Movies/Bangla%20%28Kolkata%29/Jamai%20Badal%20%282019%29%20720p%20WEBDL.mp4
 
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZWJiMTI4MmMtN2ZlMy00MDgzLTliZmQtNDdmMWQyMjAyOGE4XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg" group-title="JEET", Boss 2  
@@ -35,8 +35,8 @@ http://45.250.20.254/collection/Movies/Bangla%20%28Kolkata%29/Deewana%20%282013%
 http://45.250.20.254/collection/Movies/Bangla%20%28Kolkata%29/Hoichoi%20Unlimited%20%282018%29%201080p%20WEBRip.mp4
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/j566DppL/IMG-20240824-213305.jpg" group-title="HIRON", Jamai Bodol 
-http://45.250.20.254/collection/Movies/Bangla%20%28Kolkata%29/Jamai%20Badal%20%282019%29%20720p%20WEBDL.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DyT5Hbrr/images-12.jpg" group-title="ANKUSH", Jamai 420
+http://103.111.120.114:5244/p/Movies/Indian%20Bangla%20Movies/2015/Jamai%20420%20%282015%29/Jamai%20420%20%282015%29.mp4
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C19LPg91/MV5-BMTQ4-Mj-E3-NDM2-MV5-BMl5-Ban-Bn-Xk-Ft-ZTgw-NTYz-Mzg1-MDI-V1.jpg" group-title="DEV", Kelor Kirti 
@@ -63,8 +63,8 @@ http://45.250.20.254/collection/Movies/Bangla%20%28Kolkata%29/Paglu%20%282011%29
 http://45.250.20.254/collection/Movies/Bangla%20%28Kolkata%29/Power%20%282016%29%201080p%20WEBRip.mp4
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/g2p5VTtP/images-9.jpg" group-title="YASH", Fidda 
-http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282018%29/Fidaa%20%282018%29%20Bengali%20Movie%201080p/Fidaa%202018%20Bengali%20Movie%201080p%20Amzn%20WEB-HD%20x%20265%20HEVC.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0jtK2341/images.jpg" group-title="BONNY", Boarbadd 
+http://45.250.20.254/collection/Movies/Bangla%20%28Kolkata%29/Borbaad%20%282014%29%201080p%20WEBRip.mp4
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g20FZ7BB/IMG-20240825-113040.jpg" group-title="DEV", Shedin Dakha Hoye Chilo
@@ -91,8 +91,8 @@ http://45.250.20.254/collection/Movies/Bangla/Kolkata/Jio%20Pagla%20%282017%29%2
 http://45.250.20.254/collection/Movies/Bangla/Kolkata/Josh%20%282010%29%201080p%20WEBRip.mp4
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DyT5Hbrr/images-12.jpg" group-title="ANKUSH", Jamai 420
-http://103.111.120.114:5244/p/Movies/Indian%20Bangla%20Movies/2015/Jamai%20420%20%282015%29/Jamai%20420%20%282015%29.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/g2p5VTtP/images-9.jpg" group-title="YASH", Fidda 
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282018%29/Fidaa%20%282018%29%20Bengali%20Movie%201080p/Fidaa%202018%20Bengali%20Movie%201080p%20Amzn%20WEB-HD%20x%20265%20HEVC.mkv
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QCrg2RT8/images-15.jpg" group-title="BD MOVIES", Female 4
