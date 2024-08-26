@@ -91,8 +91,8 @@ http://45.250.20.254/collection/Movies/Bangla/Kolkata/Jio%20Pagla%20%282017%29%2
 http://45.250.20.254/collection/Movies/Bangla/Kolkata/Josh%20%282010%29%201080p%20WEBRip.mp4
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3JwFmMCc/images-4.jpg" group-title="SPECIAL MOVIES", Titanic 
-http://45.250.20.254/collection/English%20Movies/%281997%29/Titanic%20%281997%29%20720p%20%5BDual%20Audio%5D/Titanic%20%281997%29%20720p%20BluRay%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DyT5Hbrr/images-12.jpg" group-title="ANKUSH", Jamai 420
+http://103.111.120.114:5244/p/Movies/Indian%20Bangla%20Movies/2015/Jamai%20420%20%282015%29/Jamai%20420%20%282015%29.mp4
 
 
 #EXTINF:-1 tvg-logo="Logo Link" group-title="HINDI MOVIES", Chennai Express 
@@ -139,8 +139,8 @@ http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Mov
 http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282016%29/Ki%20Kore%20Toke%20Bolbo%20%282016%29%20720p/Ki%20Kore%20Toke%20Bolbo%20%20%282016%29%20%5BBengali%5D%20720p%20-%20HDRip.mkv
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DyT5Hbrr/images-12.jpg" group-title="ANKUSH", Jamai 420
-http://103.111.120.114:5244/p/Movies/Indian%20Bangla%20Movies/2015/Jamai%20420%20%282015%29/Jamai%20420%20%282015%29.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3JwFmMCc/images-4.jpg" group-title="SPECIAL MOVIES", Titanic 
+http://45.250.20.254/collection/English%20Movies/%281997%29/Titanic%20%281997%29%20720p%20%5BDual%20Audio%5D/Titanic%20%281997%29%20720p%20BluRay%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Rhm2VpHd/Romeo-2011-Movie-Poster.jpg" group-title="DEV", Romeo 
