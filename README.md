@@ -250,12 +250,13 @@ https://utube.buddyxiptv.com/@JamunaTVbd.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18832/logo/240x240/mobile_logo_166779001683805822.png" group-title="INDIA BD CHENNAL", Star Jalsha Hd 
 http://217.20.112.199/starjalshahd/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/340/logo/240x240/mobile_logo_094417001655891123.png" group-title="INDIA BD CHENNAL", Zee Bangla Hd 
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18834/logo/240x240/mobile_logo_267398001683804913.png" group-title="INDIA BD CHENNAL", Jalsha Movies Hd
 http://humsab.xyz/IN_JALSHAMOVIES/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/340/logo/240x240/mobile_logo_094417001655891123.png" group-title="INDIA BD CHENNAL", Zee Bangla Hd 
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/4dKbX8GS/images.png" group-title="INDIA BD CHENNAL", Sony Aath 
@@ -266,8 +267,8 @@ http://tv.cloudcdn.me/live.ts?channelId=44150&uid=13433&deviceMac=00:1A:79:00:97
 http://103.151.60.174/manikvai@hoichoi24.com-t-sports
 
 
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/27159/logo/240x240/mobile_logo_740957001679201029.png" group-title="KIDS CHENNAL", Pogo Hindi
-https://fifabd.xyz/KID/play.m3u8?id=150483
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/15pCwypM/IMG-20240824-215537.jpg" group-title="KIDS CHENNAL", Disney Hindi
+https://fifabd.xyz/KID/play.m3u8?id=167551
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Gpgx0WWD/images-6.jpg" group-title="MUSIC CHENNAL", Sangeet Bangla
@@ -277,7 +278,7 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla.
 #EXTINF:-1 tvg-logo="Logo Link" group-title="HINDI MOVIES", Housefull 4
 http://45.250.20.254/collection/Movies/Hindi/Housefull%204%20%282019%29%201080p%20WEBDL.mp4
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="HINDI MOVIES", Train To Bushan 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DZ0gzYx3/MV5-BMTkw-OTQ4-OTg0-OV5-BMl5-Ban-Bn-Xk-Ft-ZTgw-Mz-Qy-OTM0-OTE-V1.jpg" group-title="SPECIAL MOVIES", Train To Bushan 
 http://45.250.20.254/collection/Movies/Dual%20Audio/Train%20to%20Busan%20%28Busanhaeng%29%20%282016%29%20%28Hindi%20%26%20English%29%201080p%20BluRay.mp4
 
 
@@ -289,8 +290,8 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 http://humsab.xyz/IN_SonyMaxHD/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/15pCwypM/IMG-20240824-215537.jpg" group-title="KIDS CHENNAL", Disney Hindi
-https://fifabd.xyz/KID/play.m3u8?id=167551
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/27159/logo/240x240/mobile_logo_740957001679201029.png" group-title="KIDS CHENNAL", Pogo Hindi
+https://fifabd.xyz/KID/play.m3u8?id=150483
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bND1wYq6/IMG-20240824-215647.jpg" group-title="KIDS CHENNAL", Hungama Hindi  
