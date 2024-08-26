@@ -305,7 +305,7 @@ http://14.102.123.50:5001/live/1476.m3u8
 http://filex.tv:8080/live/munna/9090/455326.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QdBKHZ3b/IMG-20240826-134937.jpg" group-title="PYASH DTH", T.me/@Pyash8989
-m3u8 link
+https://s.id/Pyashvideo
 
 
 #EXTINF:-1 tvg-logo="Logo Link" group-title="HINDI MOVIES", Bahubali 2
