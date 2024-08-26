@@ -95,12 +95,12 @@ http://45.250.20.254/collection/Movies/Bangla/Kolkata/Josh%20%282010%29%201080p%
 http://103.111.120.114:5244/p/Movies/Indian%20Bangla%20Movies/2015/Jamai%20420%20%282015%29/Jamai%20420%20%282015%29.mp4
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="HINDI MOVIES", Chennai Express 
-http://45.250.20.254/collection/Movies/Hindi/Chennai%20Express%20%282013%29%201080p%20BluRay.mp4
-
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QCrg2RT8/images-15.jpg" group-title="BD MOVIES", Female 4
 http://103.111.120.114:5244/p/Movies/Bangladeshi%20Movies/Female%204%20%282024%29/Female%204%20%282024%29%20-%20Bengali%20Bongo%201080p.mkv
+
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="HINDI MOVIES", Chennai Express 
+http://45.250.20.254/collection/Movies/Hindi/Chennai%20Express%20%282013%29%201080p%20BluRay.mp4
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jqchDqNf/images.jpg" group-title="HORROR MOVIES", 1920 
