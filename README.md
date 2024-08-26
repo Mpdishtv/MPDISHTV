@@ -383,13 +383,16 @@ http://xtv.ooo:8080/live/927382370/837382809/245925.m3u8
 http://tv.digitalview.live:8080/live/abidhasan/283829471947229/364.ts
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pTQq4ncp/images.jpg" group-title="HINDI CHENNAL", Star Plus Hd
+https://humsab.xyz/IN_STS/tracks-v1a1/mono.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5y7qW5BN/Colors-HD.png" group-title="HINDI CHENNAL", Colours Hd
+https://humsab.xyz/IN_CTVS/tracks-v1a1/mono.m3u8
 
 
-
-
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xd5XZfy9/181x0-icon.png" group-title="SPORTS CHENNAL", Sony Sports 5
+https://humsab.xyz/S_Ten5/index.m3u8
 
 
 
