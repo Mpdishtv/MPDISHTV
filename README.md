@@ -99,8 +99,8 @@ http://103.111.120.114:5244/p/Movies/Indian%20Bangla%20Movies/2015/Jamai%20420%2
 http://45.250.20.254/collection/Movies/Hindi/Chennai%20Express%20%282013%29%201080p%20BluRay.mp4
 
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="HINDI MOVIES", Mohabbatein 
-http://45.250.20.254/collection/Movies/Hindi/Mohabbatein%20%282000%29%201080p%20BluRay.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QCrg2RT8/images-15.jpg" group-title="BD MOVIES", Female 4
+http://103.111.120.114:5244/p/Movies/Bangladeshi%20Movies/Female%204%20%282024%29/Female%204%20%282024%29%20-%20Bengali%20Bongo%201080p.mkv
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jqchDqNf/images.jpg" group-title="HORROR MOVIES", 1920 
@@ -215,8 +215,8 @@ http://45.250.20.254/collection/Movies/Bangla%20%28Kolkata%29/Rocky%20%282013%29
 http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282012%29/Jaaneman%20%282012%29/Jaaneman%20%282012%29%20DvDRip%20450MB%20%5BDoridro.com%5D.mkv
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QCrg2RT8/images-15.jpg" group-title="BD MOVIES", Female 4
-http://103.111.120.114:5244/p/Movies/Bangladeshi%20Movies/Female%204%20%282024%29/Female%204%20%282024%29%20-%20Bengali%20Bongo%201080p.mkv
+#EXTINF:-1 tvg-logo="Logo Link" group-title="HINDI MOVIES", Mohabbatein 
+http://45.250.20.254/collection/Movies/Hindi/Mohabbatein%20%282000%29%201080p%20BluRay.mp4
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yxrhrksR/IMG-20240824-220148.jpg" group-title="HIRON", Le Halua Le
