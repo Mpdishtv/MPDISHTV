@@ -63,8 +63,8 @@ http://45.250.20.254/collection/Movies/Bangla%20%28Kolkata%29/Paglu%20%282011%29
 http://45.250.20.254/collection/Movies/Bangla%20%28Kolkata%29/Power%20%282016%29%201080p%20WEBRip.mp4
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9FNtBxLF/images-2.jpg" group-title="SPECIAL MOVIES", Rocky
-http://45.250.20.254/collection/Movies/Bangla%20%28Kolkata%29/Rocky%20%282013%29%201080p%20WEBDL.mp4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/g2p5VTtP/images-9.jpg" group-title="YASH", Fidda 
+http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282018%29/Fidaa%20%282018%29%20Bengali%20Movie%201080p/Fidaa%202018%20Bengali%20Movie%201080p%20Amzn%20WEB-HD%20x%20265%20HEVC.mkv
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g20FZ7BB/IMG-20240825-113040.jpg" group-title="DEV", Shedin Dakha Hoye Chilo
@@ -207,8 +207,8 @@ http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Mov
 http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282015%29/Besh%20Korechi%20Prem%20Korechi%20%282015%29%201080p/Besh%20Korechi%20Prem%20Korechi%20%282015%29%201080p.mkv
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/g2p5VTtP/images-9.jpg" group-title="YASH", Fidda 
-http://server3.ftpbd.net/FTP-3/Bangla%20Collection/BANGLA/Kolkata%20Bangla%20Movies/%282018%29/Fidaa%20%282018%29%20Bengali%20Movie%201080p/Fidaa%202018%20Bengali%20Movie%201080p%20Amzn%20WEB-HD%20x%20265%20HEVC.mkv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9FNtBxLF/images-2.jpg" group-title="SPECIAL MOVIES", Rocky
+http://45.250.20.254/collection/Movies/Bangla%20%28Kolkata%29/Rocky%20%282013%29%201080p%20WEBDL.mp4
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/B6bB5TG3/images-6.jpg" group-title="SOHAM", Janeman 
